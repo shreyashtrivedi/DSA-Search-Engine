@@ -1,0 +1,2062 @@
+[
+  {
+    "title": "Count Commas in Range II",
+    "url": "https://leetcode.com/problems/count-commas-in-range-ii?envType=daily-question&envId=2026-09-09",
+    "description": "You are given an integer n.Return the total number of commas used when writing all integers from [1, n] (inclusive) in standard number formatting.In standard formatting:"
+  },
+  {
+    "title": "Two Sum",
+    "url": "https://leetcode.com/problems/two-sum",
+    "description": "You are given an array of integers nums and an integer target, return indices of the two numbers such that they add up to target.You may assume that each input would have exactly one solution, and you may not use the same element twice.You can return the answer in any order."
+  },
+  {
+    "title": "Add Two Numbers",
+    "url": "https://leetcode.com/problems/add-two-numbers",
+    "description": "You are given two non-empty linked lists representing two non-negative integers. The digits are stored in reverse order, and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.You may assume the two numbers do not contain any leading zero, except the number 0 itself."
+  },
+  {
+    "title": "Longest Substring Without Repeating Characters",
+    "url": "https://leetcode.com/problems/longest-substring-without-repeating-characters",
+    "description": "Given a string s, find the length of the longest substring without duplicate characters."
+  },
+  {
+    "title": "Median of Two Sorted Arrays",
+    "url": "https://leetcode.com/problems/median-of-two-sorted-arrays",
+    "description": "Given two sorted arrays nums1 and nums2 of size m and n respectively, return the median of the two sorted arrays.The overall run time complexity should be O(log (m+n))."
+  },
+  {
+    "title": "Longest Palindromic Substring",
+    "url": "https://leetcode.com/problems/longest-palindromic-substring",
+    "description": "Given a string s, return the longest palindromic substring in s."
+  },
+  {
+    "title": "Zigzag Conversion",
+    "url": "https://leetcode.com/problems/zigzag-conversion",
+    "description": "The string \"PAYPALISHIRING\" is written in a zigzag pattern on a given number of rows like this: (you may want to display this pattern in a fixed font for better legibility)And then read line by line: \"PAHNAPLSIIGYIR\"Write the code that will take a string and make this conversion given a number of rows:"
+  },
+  {
+    "title": "Reverse Integer",
+    "url": "https://leetcode.com/problems/reverse-integer",
+    "description": "Given a signed 32-bit integer x, return x with its digits reversed. If reversing x causes the value to go outside the signed 32-bit integer range [-231, 231 - 1], then return 0.Assume the environment does not allow you to store 64-bit integers (signed or unsigned)."
+  },
+  {
+    "title": "String to Integer (atoi)",
+    "url": "https://leetcode.com/problems/string-to-integer-atoi",
+    "description": "Implement the myAtoi(string s) function, which converts a string to a 32-bit signed integer.The algorithm for myAtoi(string s) is as follows:Return the integer as the final result."
+  },
+  {
+    "title": "Palindrome Number",
+    "url": "https://leetcode.com/problems/palindrome-number",
+    "description": "Given an integer x, return true if x is a palindrome, and false otherwise."
+  },
+  {
+    "title": "Regular Expression Matching",
+    "url": "https://leetcode.com/problems/regular-expression-matching",
+    "description": "Given an input string s and a pattern p, implement regular expression matching with support for '.' and '*' where:Return a boolean indicating whether the matching covers the entire input string (not partial)."
+  },
+  {
+    "title": "Container With Most Water",
+    "url": "https://leetcode.com/problems/container-with-most-water",
+    "description": "You are given an integer array height of length n. There are n vertical lines drawn such that the two endpoints of the ith line are (i, 0) and (i, height[i]).Find two lines that together with the x-axis form a container, such that the container contains the most water.Return the maximum amount of water a container can store.Notice that you may not slant the container."
+  },
+  {
+    "title": "Integer to Roman",
+    "url": "https://leetcode.com/problems/integer-to-roman",
+    "description": "Seven different symbols represent Roman numerals with the following values:Roman numerals are formed by appending the conversions of decimal place values from highest to lowest. Converting a decimal place value into a Roman numeral has the following rules:Given an integer, convert it to a Roman numeral."
+  },
+  {
+    "title": "Roman to Integer",
+    "url": "https://leetcode.com/problems/roman-to-integer",
+    "description": "Roman numerals are represented by seven different symbols: I, V, X, L, C, D and M.For example, 2 is written as II in Roman numeral, just two ones added together. 12 is written as XII, which is simply X + II. The number 27 is written as XXVII, which is XX + V + II.Roman numerals are usually written largest to smallest from left to right. However, the numeral for four is not IIII. Instead, the number four is written as IV. Because the one is before the five we subtract it making four. The same principle applies to the number nine, which is written as IX. There are six instances where subtraction is used:Given a roman numeral, convert it to an integer."
+  },
+  {
+    "title": "Longest Common Prefix",
+    "url": "https://leetcode.com/problems/longest-common-prefix",
+    "description": "Write a function to find the longest common prefix string amongst an array of strings.If there is no common prefix, return an empty string \"\"."
+  },
+  {
+    "title": "3Sum",
+    "url": "https://leetcode.com/problems/3sum",
+    "description": "Given an integer array nums, return all the triplets [nums[i], nums[j], nums[k]] such that i != j, i != k, and j != k, and nums[i] + nums[j] + nums[k] == 0.Notice that the solution set must not contain duplicate triplets."
+  },
+  {
+    "title": "3Sum Closest",
+    "url": "https://leetcode.com/problems/3sum-closest",
+    "description": "You are given an integer array nums of length n and an integer target.Find three integers at distinct indices in nums such that the sum is closest to target.Return the sum of the three integers.You may assume that each input would have exactly one solution."
+  },
+  {
+    "title": "Letter Combinations of a Phone Number",
+    "url": "https://leetcode.com/problems/letter-combinations-of-a-phone-number",
+    "description": "Given a string containing digits from 2-9 inclusive, return all possible letter combinations that the number could represent. Return the answer in any order.A mapping of digits to letters (just like on the telephone buttons) is given below. Note that 1 does not map to any letters."
+  },
+  {
+    "title": "4Sum",
+    "url": "https://leetcode.com/problems/4sum",
+    "description": "Given an array nums of n integers, return an array of all the unique quadruplets [nums[a], nums[b], nums[c], nums[d]] such that:You may return the answer in any order."
+  },
+  {
+    "title": "Remove Nth Node From End of List",
+    "url": "https://leetcode.com/problems/remove-nth-node-from-end-of-list",
+    "description": "Given the head of a linked list, remove the nth node from the end of the list and return its head."
+  },
+  {
+    "title": "Valid Parentheses",
+    "url": "https://leetcode.com/problems/valid-parentheses",
+    "description": "Given a string s containing just the characters '(', ')', '{', '}', '[' and ']', determine if the input string is valid.An input string is valid if:"
+  },
+  {
+    "title": "Merge Two Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-two-sorted-lists",
+    "description": "You are given the heads of two sorted linked lists list1 and list2.Merge the two lists into one sorted list. The list should be made by splicing together the nodes of the first two lists.Return the head of the merged linked list."
+  },
+  {
+    "title": "Generate Parentheses",
+    "url": "https://leetcode.com/problems/generate-parentheses",
+    "description": "Given n pairs of parentheses, write a function to generate all combinations of well-formed parentheses."
+  },
+  {
+    "title": "Merge k Sorted Lists",
+    "url": "https://leetcode.com/problems/merge-k-sorted-lists",
+    "description": "You are given an array of k linked-lists lists, each linked-list is sorted in ascending order.Merge all the linked-lists into one sorted linked-list and return it."
+  },
+  {
+    "title": "Swap Nodes in Pairs",
+    "url": "https://leetcode.com/problems/swap-nodes-in-pairs",
+    "description": "Given a linked list, swap every two adjacent nodes and return its head. You must solve the problem without modifying the values in the list's nodes (i.e., only nodes themselves may be changed.)"
+  },
+  {
+    "title": "Reverse Nodes in k-Group",
+    "url": "https://leetcode.com/problems/reverse-nodes-in-k-group",
+    "description": "Given the head of a linked list, reverse the nodes of the list k at a time, and return the modified list.k is a positive integer and is less than or equal to the length of the linked list. If the number of nodes is not a multiple of k then left-out nodes, in the end, should remain as it is.You may not alter the values in the list's nodes, only nodes themselves may be changed."
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array",
+    "description": "Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.Consider the number of unique elements in nums to be k​​​​​​​​​​​​​​. After removing duplicates, return the number of unique elements k.The first k elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index k - 1 can be ignored.Custom Judge:The judge will test your solution with the following code:If all assertions pass, then your solution will be accepted."
+  },
+  {
+    "title": "Remove Element",
+    "url": "https://leetcode.com/problems/remove-element",
+    "description": "Given an integer array nums and an integer val, remove all occurrences of val in nums in-place. The order of the elements may be changed. Then return the number of elements in nums which are not equal to val.Consider the number of elements in nums which are not equal to val be k, to get accepted, you need to do the following things:Custom Judge:The judge will test your solution with the following code:If all assertions pass, then your solution will be accepted."
+  },
+  {
+    "title": "Find the Index of the First Occurrence in a String",
+    "url": "https://leetcode.com/problems/find-the-index-of-the-first-occurrence-in-a-string",
+    "description": "Given two strings needle and haystack, return the index of the first occurrence of needle in haystack, or -1 if needle is not part of haystack."
+  },
+  {
+    "title": "Divide Two Integers",
+    "url": "https://leetcode.com/problems/divide-two-integers",
+    "description": "Given two integers dividend and divisor, divide two integers without using multiplication, division, and mod operator.The integer division should truncate toward zero, which means losing its fractional part. For example, 8.345 would be truncated to 8, and -2.7335 would be truncated to -2.Return the quotient after dividing dividend by divisor.Note: Assume we are dealing with an environment that could only store integers within the 32-bit signed integer range: [−231, 231 − 1]. For this problem, if the quotient is strictly greater than 231 - 1, then return 231 - 1, and if the quotient is strictly less than -231, then return -231."
+  },
+  {
+    "title": "Substring with Concatenation of All Words",
+    "url": "https://leetcode.com/problems/substring-with-concatenation-of-all-words",
+    "description": "You are given a string s and an array of strings words. All the strings of words are of the same length.A concatenated string is a string that exactly contains all the strings of any permutation of words concatenated.Return an array of the starting indices of all the concatenated substrings in s. You can return the answer in any order."
+  },
+  {
+    "title": "Next Permutation",
+    "url": "https://leetcode.com/problems/next-permutation",
+    "description": "A permutation of an array of integers is an arrangement of its members into a sequence or linear order.The next permutation of an array of integers is the next lexicographically greater permutation of its integer. More formally, if all the permutations of the array are sorted in one container according to their lexicographical order, then the next permutation of that array is the permutation that follows it in the sorted container. If such arrangement is not possible, the array must be rearranged as the lowest possible order (i.e., sorted in ascending order).Given an array of integers nums, find the next permutation of nums.The replacement must be in place and use only constant extra memory."
+  },
+  {
+    "title": "Longest Valid Parentheses",
+    "url": "https://leetcode.com/problems/longest-valid-parentheses",
+    "description": "Given a string containing just the characters '(' and ')', return the length of the longest valid (well-formed) parentheses substring."
+  },
+  {
+    "title": "Search in Rotated Sorted Array",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array",
+    "description": "There is an integer array nums sorted in ascending order (with distinct values).Prior to being passed to your function, nums is possibly left rotated at an unknown index k (1 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,5,6,7] might be left rotated by 3 indices and become [4,5,6,7,0,1,2].Given the array nums after the possible rotation and an integer target, return the index of target if it is in nums, or -1 if it is not in nums.You must write an algorithm with O(log n) runtime complexity."
+  },
+  {
+    "title": "Find First and Last Position of Element in Sorted Array",
+    "url": "https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array",
+    "description": "Given an array of integers nums sorted in non-decreasing order, find the starting and ending position of a given target value.If target is not found in the array, return [-1, -1].You must write an algorithm with O(log n) runtime complexity."
+  },
+  {
+    "title": "Search Insert Position",
+    "url": "https://leetcode.com/problems/search-insert-position",
+    "description": "Given a sorted array of distinct integers and a target value, return the index if the target is found. If not, return the index where it would be if it were inserted in order.You must write an algorithm with O(log n) runtime complexity."
+  },
+  {
+    "title": "Valid Sudoku",
+    "url": "https://leetcode.com/problems/valid-sudoku",
+    "description": "Determine if a 9 x 9 Sudoku board is valid. Only the filled cells need to be validated according to the following rules:Note:"
+  },
+  {
+    "title": "Sudoku Solver",
+    "url": "https://leetcode.com/problems/sudoku-solver",
+    "description": "Write a program to solve a Sudoku puzzle by filling the empty cells.A sudoku solution must satisfy all of the following rules:The '.' character indicates empty cells."
+  },
+  {
+    "title": "Count and Say",
+    "url": "https://leetcode.com/problems/count-and-say",
+    "description": "The count-and-say sequence is a sequence of digit strings defined by the recursive formula:Run-length encoding (RLE) is a string compression method that works by replacing each maximal group of consecutive identical characters with the concatenation of the length of the group followed by the character itself. For example, to compress the string \"3322251\" we replace \"33\" with \"23\", replace \"222\" with \"32\", replace \"5\" with \"15\", and replace \"1\" with \"11\". Thus the compressed string becomes \"23321511\".Given a positive integer n, return the nth element of the count-and-say sequence."
+  },
+  {
+    "title": "Combination Sum",
+    "url": "https://leetcode.com/problems/combination-sum",
+    "description": "Given an array of distinct integers candidates and a target integer target, return a list of all unique combinations of candidates where the chosen numbers sum to target. You may return the combinations in any order.The same number may be chosen from candidates an unlimited number of times. Two combinations are unique if the frequency of at least one of the chosen numbers is different.The test cases are generated such that the number of unique combinations that sum up to target is less than 150 combinations for the given input."
+  },
+  {
+    "title": "Combination Sum II",
+    "url": "https://leetcode.com/problems/combination-sum-ii",
+    "description": "Given a collection of candidate numbers (candidates) and a target number (target), find all unique combinations in candidates where the candidate numbers sum to target.Each number in candidates may only be used once in the combination.Note: The solution set must not contain duplicate combinations."
+  },
+  {
+    "title": "First Missing Positive",
+    "url": "https://leetcode.com/problems/first-missing-positive",
+    "description": "Given an unsorted integer array nums. Return the smallest positive integer that is not present in nums.You must implement an algorithm that runs in O(n) time and uses O(1) auxiliary space."
+  },
+  {
+    "title": "Trapping Rain Water",
+    "url": "https://leetcode.com/problems/trapping-rain-water",
+    "description": "Given n non-negative integers representing an elevation map where the width of each bar is 1, compute how much water it can trap after raining."
+  },
+  {
+    "title": "Multiply Strings",
+    "url": "https://leetcode.com/problems/multiply-strings",
+    "description": "Given two non-negative integers num1 and num2 represented as strings, return the product of num1 and num2, also represented as a string.Note: You must not use any built-in BigInteger library or convert the inputs to integer directly."
+  },
+  {
+    "title": "Wildcard Matching",
+    "url": "https://leetcode.com/problems/wildcard-matching",
+    "description": "Given an input string (s) and a pattern (p), implement wildcard pattern matching with support for '?' and '*' where:The matching should cover the entire input string (not partial)."
+  },
+  {
+    "title": "Jump Game II",
+    "url": "https://leetcode.com/problems/jump-game-ii",
+    "description": "You are given a 0-indexed array of integers nums of length n. You are initially positioned at index 0.Each element nums[i] represents the maximum length of a forward jump from index i. In other words, if you are at index i, you can jump to any index (i + j) where:Return the minimum number of jumps to reach index n - 1. The test cases are generated such that you can reach index n - 1."
+  },
+  {
+    "title": "Permutations",
+    "url": "https://leetcode.com/problems/permutations",
+    "description": "Given an array nums of distinct integers, return all the possible permutations. You can return the answer in any order."
+  },
+  {
+    "title": "Permutations II",
+    "url": "https://leetcode.com/problems/permutations-ii",
+    "description": "Given a collection of numbers, nums, that might contain duplicates, return all possible unique permutations in any order."
+  },
+  {
+    "title": "Rotate Image",
+    "url": "https://leetcode.com/problems/rotate-image",
+    "description": "You are given an n x n 2D matrix representing an image, rotate the image by 90 degrees (clockwise).You have to rotate the image in-place, which means you have to modify the input 2D matrix directly. DO NOT allocate another 2D matrix and do the rotation."
+  },
+  {
+    "title": "Group Anagrams",
+    "url": "https://leetcode.com/problems/group-anagrams",
+    "description": "Given an array of strings strs, group the anagrams together. You can return the answer in any order."
+  },
+  {
+    "title": "Pow(x, n)",
+    "url": "https://leetcode.com/problems/powx-n",
+    "description": "Implement pow(x, n), which calculates x raised to the power n (i.e., xn)."
+  },
+  {
+    "title": "N-Queens",
+    "url": "https://leetcode.com/problems/n-queens",
+    "description": "The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.Given an integer n, return all distinct solutions to the n-queens puzzle. You may return the answer in any order.Each solution contains a distinct board configuration of the n-queens' placement, where 'Q' and '.' both indicate a queen and an empty space, respectively."
+  },
+  {
+    "title": "N-Queens II",
+    "url": "https://leetcode.com/problems/n-queens-ii",
+    "description": "The n-queens puzzle is the problem of placing n queens on an n x n chessboard such that no two queens attack each other.Given an integer n, return the number of distinct solutions to the n-queens puzzle."
+  },
+  {
+    "title": "Maximum Subarray",
+    "url": "https://leetcode.com/problems/maximum-subarray",
+    "description": "Given an integer array nums, find the subarray with the largest sum, and return its sum."
+  },
+  {
+    "title": "Spiral Matrix",
+    "url": "https://leetcode.com/problems/spiral-matrix",
+    "description": "Given an m x n matrix, return all elements of the matrix in spiral order."
+  },
+  {
+    "title": "Jump Game",
+    "url": "https://leetcode.com/problems/jump-game",
+    "description": "You are given an integer array nums. You are initially positioned at the array's first index, and each element in the array represents your maximum jump length at that position.Return true if you can reach the last index, or false otherwise."
+  },
+  {
+    "title": "Merge Intervals",
+    "url": "https://leetcode.com/problems/merge-intervals",
+    "description": "Given an array of intervals where intervals[i] = [starti, endi], merge all overlapping intervals, and return an array of the non-overlapping intervals that cover all the intervals in the input."
+  },
+  {
+    "title": "Insert Interval",
+    "url": "https://leetcode.com/problems/insert-interval",
+    "description": "You are given an array of non-overlapping intervals intervals where intervals[i] = [starti, endi] represent the start and the end of the ith interval and intervals is sorted in ascending order by starti. You are also given an interval newInterval = [start, end] that represents the start and end of another interval.Two intervals are considered overlapping if they share at least one point.Insert newInterval into intervals such that intervals is still sorted in ascending order by starti and intervals still does not have any overlapping intervals (merge overlapping intervals if necessary).Return intervals after the insertion.Note that you don't need to modify intervals in-place. You can make a new array and return it."
+  },
+  {
+    "title": "Length of Last Word",
+    "url": "https://leetcode.com/problems/length-of-last-word",
+    "description": "Given a string s consisting of words and spaces, return the length of the last word in the string.A word is a maximal substring consisting of non-space characters only."
+  },
+  {
+    "title": "Spiral Matrix II",
+    "url": "https://leetcode.com/problems/spiral-matrix-ii",
+    "description": "Given a positive integer n, generate an n x n matrix filled with elements from 1 to n2 in spiral order."
+  },
+  {
+    "title": "Permutation Sequence",
+    "url": "https://leetcode.com/problems/permutation-sequence",
+    "description": "The set [1, 2, 3, ..., n] contains a total of n! unique permutations.By listing and labeling all of the permutations in order, we get the following sequence for n = 3:Given n and k, return the kth permutation sequence."
+  },
+  {
+    "title": "Rotate List",
+    "url": "https://leetcode.com/problems/rotate-list",
+    "description": "Given the head of a linked list, rotate the list to the right by k places."
+  },
+  {
+    "title": "Unique Paths",
+    "url": "https://leetcode.com/problems/unique-paths",
+    "description": "There is a robot on an m x n grid. The robot is initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time.Given the two integers m and n, return the number of possible unique paths that the robot can take to reach the bottom-right corner.The test cases are generated so that the answer will be less than or equal to 2 * 109."
+  },
+  {
+    "title": "Unique Paths II",
+    "url": "https://leetcode.com/problems/unique-paths-ii",
+    "description": "You are given an m x n integer array grid. There is a robot initially located at the top-left corner (i.e., grid[0][0]). The robot tries to move to the bottom-right corner (i.e., grid[m - 1][n - 1]). The robot can only move either down or right at any point in time.An obstacle and space are marked as 1 or 0 respectively in grid. A path that the robot takes cannot include any square that is an obstacle.Return the number of possible unique paths that the robot can take to reach the bottom-right corner.The testcases are generated so that the answer will be less than or equal to 2 * 109."
+  },
+  {
+    "title": "Minimum Path Sum",
+    "url": "https://leetcode.com/problems/minimum-path-sum",
+    "description": "Given a m x n grid filled with non-negative numbers, find a path from top left to bottom right, which minimizes the sum of all numbers along its path.Note: You can only move either down or right at any point in time."
+  },
+  {
+    "title": "Valid Number",
+    "url": "https://leetcode.com/problems/valid-number",
+    "description": "Given a string s, return whether s is a valid number.\n\nFor example, all the following are valid numbers: \"2\", \"0089\", \"-0.1\", \"+3.14\", \"4.\", \"-.9\", \"2e10\", \"-90E3\", \"3e+7\", \"+6e-1\", \"53.5e93\", \"-123.456e789\", while the following are not valid numbers: \"abc\", \"1a\", \"1e\", \"e3\", \"99e2.5\", \"--6\", \"-+3\", \"95a54e53\".Formally, a valid number is defined using one of the following definitions:An integer number is defined with an optional sign '-' or '+' followed by digits.A decimal number is defined with an optional sign '-' or '+' followed by one of the following definitions:An exponent is defined with an exponent notation 'e' or 'E' followed by an integer number.The digits are defined as one or more digits."
+  },
+  {
+    "title": "Plus One",
+    "url": "https://leetcode.com/problems/plus-one",
+    "description": "You are given a large integer represented as an integer array digits, where each digits[i] is the ith digit of the integer. The digits are ordered from most significant to least significant in left-to-right order. The large integer does not contain any leading 0's.Increment the large integer by one and return the resulting array of digits."
+  },
+  {
+    "title": "Add Binary",
+    "url": "https://leetcode.com/problems/add-binary",
+    "description": "Given two binary strings a and b, return their sum as a binary string."
+  },
+  {
+    "title": "Text Justification",
+    "url": "https://leetcode.com/problems/text-justification",
+    "description": "Given an array of strings words and a width maxWidth, format the text such that each line has exactly maxWidth characters and is fully (left and right) justified.You should pack your words in a greedy approach; that is, pack as many words as you can in each line. Pad extra spaces ' ' when necessary so that each line has exactly maxWidth characters.Extra spaces between words should be distributed as evenly as possible. If the number of spaces on a line does not divide evenly between words, the empty slots on the left will be assigned more spaces than the slots on the right.For the last line of text, it should be left-justified, and no extra space is inserted between words.Note:"
+  },
+  {
+    "title": "Sqrt(x)",
+    "url": "https://leetcode.com/problems/sqrtx",
+    "description": "Given a non-negative integer x, return the square root of x rounded down to the nearest integer. The returned integer should be non-negative as well.You must not use any built-in exponent function or operator."
+  },
+  {
+    "title": "Climbing Stairs",
+    "url": "https://leetcode.com/problems/climbing-stairs",
+    "description": "You are climbing a staircase. It takes n steps to reach the top.Each time you can either climb 1 or 2 steps. In how many distinct ways can you climb to the top?"
+  },
+  {
+    "title": "Simplify Path",
+    "url": "https://leetcode.com/problems/simplify-path",
+    "description": "You are given an absolute path for a Unix-style file system, which always begins with a slash '/'. Your task is to transform this absolute path into its simplified canonical path.The rules of a Unix-style file system are as follows:The simplified canonical path should follow these rules:Return the simplified canonical path."
+  },
+  {
+    "title": "Edit Distance",
+    "url": "https://leetcode.com/problems/edit-distance",
+    "description": "Given two strings word1 and word2, return the minimum number of operations required to convert word1 to word2.You have the following three operations permitted on a word:"
+  },
+  {
+    "title": "Set Matrix Zeroes",
+    "url": "https://leetcode.com/problems/set-matrix-zeroes",
+    "description": "Given an m x n integer matrix matrix, if an element is 0, set its entire row and column to 0's.You must do it in place."
+  },
+  {
+    "title": "Search a 2D Matrix",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix",
+    "description": "You are given an m x n integer matrix matrix with the following two properties:Given an integer target, return true if target is in matrix or false otherwise.You must write a solution in O(log(m * n)) time complexity."
+  },
+  {
+    "title": "Sort Colors",
+    "url": "https://leetcode.com/problems/sort-colors",
+    "description": "You are given an array nums with n objects colored red, white, or blue, sort them in-place so that objects of the same color are adjacent, with the colors in the order red, white, and blue.We will use the integers 0, 1, and 2 to represent the color red, white, and blue, respectively.You must solve this problem without using the library's sort function."
+  },
+  {
+    "title": "Minimum Window Substring",
+    "url": "https://leetcode.com/problems/minimum-window-substring",
+    "description": "Given two strings s and t of lengths m and n respectively, return the minimum window substring of s such that every character in t (including duplicates) is included in the window. If there is no such substring, return the empty string \"\".The testcases will be generated such that the answer is unique."
+  },
+  {
+    "title": "Combinations",
+    "url": "https://leetcode.com/problems/combinations",
+    "description": "Given two integers n and k, return all possible combinations of k numbers chosen from the range [1, n].You may return the answer in any order."
+  },
+  {
+    "title": "Subsets",
+    "url": "https://leetcode.com/problems/subsets",
+    "description": "Given an integer array nums of unique elements, return all possible subsets (the power set).The solution set must not contain duplicate subsets. Return the solution in any order."
+  },
+  {
+    "title": "Word Search",
+    "url": "https://leetcode.com/problems/word-search",
+    "description": "Given an m x n grid of characters board and a string word, return true if word exists in the grid.The word can be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once."
+  },
+  {
+    "title": "Remove Duplicates from Sorted Array II",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii",
+    "description": "Given an integer array nums sorted in non-decreasing order, remove some duplicates in-place such that each unique element appears at most twice. The relative order of the elements should be kept the same.Since it is impossible to change the length of the array in some languages, you must instead have the result be placed in the first part of the array nums. More formally, if there are k elements after removing the duplicates, then the first k elements of nums should hold the final result. It does not matter what you leave beyond the first k elements.Return k after placing the final result in the first k slots of nums.Do not allocate extra space for another array. You must do this by modifying the input array in-place with O(1) extra memory.Custom Judge:The judge will test your solution with the following code:If all assertions pass, then your solution will be accepted."
+  },
+  {
+    "title": "Search in Rotated Sorted Array II",
+    "url": "https://leetcode.com/problems/search-in-rotated-sorted-array-ii",
+    "description": "There is an integer array nums sorted in non-decreasing order (not necessarily with distinct values).Before being passed to your function, nums is rotated at an unknown pivot index k (0 <= k < nums.length) such that the resulting array is [nums[k], nums[k+1], ..., nums[n-1], nums[0], nums[1], ..., nums[k-1]] (0-indexed). For example, [0,1,2,4,4,4,5,6,6,7] might be rotated at pivot index 5 and become [4,5,6,6,7,0,1,2,4,4].Given the array nums after the rotation and an integer target, return true if target is in nums, or false if it is not in nums.You must decrease the overall operation steps as much as possible."
+  },
+  {
+    "title": "Remove Duplicates from Sorted List II",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list-ii",
+    "description": "You are given the head of a sorted linked list.Delete all nodes that have duplicate numbers, leaving only distinct numbers from the original list.Return the linked list sorted as well."
+  },
+  {
+    "title": "Remove Duplicates from Sorted List",
+    "url": "https://leetcode.com/problems/remove-duplicates-from-sorted-list",
+    "description": "Given the head of a sorted linked list, delete all duplicates such that each element appears only once. Return the linked list sorted as well."
+  },
+  {
+    "title": "Largest Rectangle in Histogram",
+    "url": "https://leetcode.com/problems/largest-rectangle-in-histogram",
+    "description": "Given an array of integers heights representing the histogram's bar height where the width of each bar is 1, return the area of the largest rectangle in the histogram."
+  },
+  {
+    "title": "Maximal Rectangle",
+    "url": "https://leetcode.com/problems/maximal-rectangle",
+    "description": "Given a rows x cols binary matrix filled with 0's and 1's, find the largest rectangle containing only 1's and return its area."
+  },
+  {
+    "title": "Partition List",
+    "url": "https://leetcode.com/problems/partition-list",
+    "description": "Given the head of a linked list and a value x, partition it such that all nodes less than x come before nodes greater than or equal to x.You should preserve the original relative order of the nodes in each of the two partitions."
+  },
+  {
+    "title": "Scramble String",
+    "url": "https://leetcode.com/problems/scramble-string",
+    "description": "We can scramble a string s to get a string t using the following algorithm:Given two strings s1 and s2 of the same length, return true if s2 is a scrambled string of s1, otherwise, return false."
+  },
+  {
+    "title": "Merge Sorted Array",
+    "url": "https://leetcode.com/problems/merge-sorted-array",
+    "description": "You are given two integer arrays nums1 and nums2, sorted in non-decreasing order, and two integers m and n, representing the number of elements in nums1 and nums2 respectively.Merge nums1 and nums2 into a single array sorted in non-decreasing order.The final sorted array should not be returned by the function, but instead be stored inside the array nums1. To accommodate this, nums1 has a length of m + n, where the first m elements denote the elements that should be merged, and the last n elements are set to 0 and should be ignored. nums2 has a length of n."
+  },
+  {
+    "title": "Gray Code",
+    "url": "https://leetcode.com/problems/gray-code",
+    "description": "An n-bit gray code sequence is a sequence of 2n integers where:Given an integer n, return any valid n-bit gray code sequence."
+  },
+  {
+    "title": "Subsets II",
+    "url": "https://leetcode.com/problems/subsets-ii",
+    "description": "Given an integer array nums that may contain duplicates, return all possible subsets (the power set).The solution set must not contain duplicate subsets. Return the solution in any order."
+  },
+  {
+    "title": "Decode Ways",
+    "url": "https://leetcode.com/problems/decode-ways",
+    "description": "You have intercepted a secret message encoded as a string of numbers. The message is decoded via the following mapping:\"1\" -> 'A'\n\n\"2\" -> 'B'\n\n...\n\n\"25\" -> 'Y'\n\n\"26\" -> 'Z'However, while decoding the message, you realize that there are many different ways you can decode the message because some codes are contained in other codes (\"2\" and \"5\" vs \"25\").For example, \"11106\" can be decoded into:Note: there may be strings that are impossible to decode.\n\nGiven a string s containing only digits, return the number of ways to decode it. If the entire string cannot be decoded in any valid way, return 0.The test cases are generated so that the answer fits in a 32-bit integer."
+  },
+  {
+    "title": "Reverse Linked List II",
+    "url": "https://leetcode.com/problems/reverse-linked-list-ii",
+    "description": "Given the head of a singly linked list and two integers left and right where left <= right, reverse the nodes of the list from position left to position right, and return the reversed list."
+  },
+  {
+    "title": "Restore IP Addresses",
+    "url": "https://leetcode.com/problems/restore-ip-addresses",
+    "description": "A valid IP address consists of exactly four integers separated by single dots. Each integer is between 0 and 255 (inclusive) and cannot have leading zeros.Given a string s containing only digits, return all possible valid IP addresses that can be formed by inserting dots into s. You are not allowed to reorder or remove any digits in s. You may return the valid IP addresses in any order."
+  },
+  {
+    "title": "Binary Tree Inorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-inorder-traversal",
+    "description": "Given the root of a binary tree, return the inorder traversal of its nodes' values."
+  },
+  {
+    "title": "Unique Binary Search Trees II",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees-ii",
+    "description": "Given an integer n, return all the structurally unique BST's (binary search trees), which has exactly n nodes of unique values from 1 to n. Return the answer in any order."
+  },
+  {
+    "title": "Unique Binary Search Trees",
+    "url": "https://leetcode.com/problems/unique-binary-search-trees",
+    "description": "Given an integer n, return the number of structurally unique BST's (binary search trees) which has exactly n nodes of unique values from 1 to n."
+  },
+  {
+    "title": "Interleaving String",
+    "url": "https://leetcode.com/problems/interleaving-string",
+    "description": "Given strings s1, s2, and s3, find whether s3 is formed by an interleaving of s1 and s2.An interleaving of two strings s and t is a configuration where s and t are divided into n and m substrings respectively, such that:Note: a + b is the concatenation of strings a and b."
+  },
+  {
+    "title": "Validate Binary Search Tree",
+    "url": "https://leetcode.com/problems/validate-binary-search-tree",
+    "description": "Given the root of a binary tree, determine if it is a valid binary search tree (BST).A valid BST is defined as follows:"
+  },
+  {
+    "title": "Recover Binary Search Tree",
+    "url": "https://leetcode.com/problems/recover-binary-search-tree",
+    "description": "You are given the root of a binary search tree (BST), where the values of exactly two nodes of the tree were swapped by mistake. Recover the tree without changing its structure."
+  },
+  {
+    "title": "Same Tree",
+    "url": "https://leetcode.com/problems/same-tree",
+    "description": "Given the roots of two binary trees p and q, write a function to check if they are the same or not.Two binary trees are considered the same if they are structurally identical, and the nodes have the same value."
+  },
+  {
+    "title": "Symmetric Tree",
+    "url": "https://leetcode.com/problems/symmetric-tree",
+    "description": "Given the root of a binary tree, check whether it is a mirror of itself (i.e., symmetric around its center)."
+  },
+  {
+    "title": "Binary Tree Level Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal",
+    "description": "Given the root of a binary tree, return the level order traversal of its nodes' values. (i.e., from left to right, level by level)."
+  },
+  {
+    "title": "Binary Tree Zigzag Level Order Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal",
+    "description": "Given the root of a binary tree, return the zigzag level order traversal of its nodes' values. (i.e., from left to right, then right to left for the next level and alternate between)."
+  },
+  {
+    "title": "Maximum Depth of Binary Tree",
+    "url": "https://leetcode.com/problems/maximum-depth-of-binary-tree",
+    "description": "Given the root of a binary tree, return its maximum depth.A binary tree's maximum depth is the number of nodes along the longest path from the root node down to the farthest leaf node."
+  },
+  {
+    "title": "Construct Binary Tree from Preorder and Inorder Traversal",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-preorder-and-inorder-traversal",
+    "description": "Given two integer arrays preorder and inorder where preorder is the preorder traversal of a binary tree and inorder is the inorder traversal of the same tree, construct and return the binary tree."
+  },
+  {
+    "title": "Construct Binary Tree from Inorder and Postorder Traversal",
+    "url": "https://leetcode.com/problems/construct-binary-tree-from-inorder-and-postorder-traversal",
+    "description": "Given two integer arrays inorder and postorder where inorder is the inorder traversal of a binary tree and postorder is the postorder traversal of the same tree, construct and return the binary tree."
+  },
+  {
+    "title": "Binary Tree Level Order Traversal II",
+    "url": "https://leetcode.com/problems/binary-tree-level-order-traversal-ii",
+    "description": "Given the root of a binary tree, return the bottom-up level order traversal of its nodes' values. (i.e., from left to right, level by level from leaf to root)."
+  },
+  {
+    "title": "Convert Sorted Array to Binary Search Tree",
+    "url": "https://leetcode.com/problems/convert-sorted-array-to-binary-search-tree",
+    "description": "Given an integer array nums where the elements are sorted in ascending order, convert it to a height-balanced binary search tree."
+  },
+  {
+    "title": "Convert Sorted List to Binary Search Tree",
+    "url": "https://leetcode.com/problems/convert-sorted-list-to-binary-search-tree",
+    "description": "Given the head of a singly linked list where elements are sorted in ascending order, convert it to a height-balanced binary search tree."
+  },
+  {
+    "title": "Balanced Binary Tree",
+    "url": "https://leetcode.com/problems/balanced-binary-tree",
+    "description": "Given a binary tree, determine if it is height-balanced."
+  },
+  {
+    "title": "Minimum Depth of Binary Tree",
+    "url": "https://leetcode.com/problems/minimum-depth-of-binary-tree",
+    "description": "Given a binary tree, find its minimum depth.The minimum depth is the number of nodes along the shortest path from the root node down to the nearest leaf node.Note: A leaf is a node with no children."
+  },
+  {
+    "title": "Path Sum",
+    "url": "https://leetcode.com/problems/path-sum",
+    "description": "Given the root of a binary tree and an integer targetSum, return true if the tree has a root-to-leaf path such that adding up all the values along the path equals targetSum.A leaf is a node with no children."
+  },
+  {
+    "title": "Path Sum II",
+    "url": "https://leetcode.com/problems/path-sum-ii",
+    "description": "Given the root of a binary tree and an integer targetSum, return all root-to-leaf paths where the sum of the node values in the path equals targetSum. Each path should be returned as a list of the node values, not node references.A root-to-leaf path is a path starting from the root and ending at any leaf node. A leaf is a node with no children."
+  },
+  {
+    "title": "Flatten Binary Tree to Linked List",
+    "url": "https://leetcode.com/problems/flatten-binary-tree-to-linked-list",
+    "description": "Given the root of a binary tree, flatten the tree into a \"linked list\":"
+  },
+  {
+    "title": "Distinct Subsequences",
+    "url": "https://leetcode.com/problems/distinct-subsequences",
+    "description": "Given two strings s and t, return the number of distinct subsequences of s which equals t.The test cases are generated so that the answer fits on a 32-bit signed integer."
+  },
+  {
+    "title": "Populating Next Right Pointers in Each Node",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node",
+    "description": "You are given a perfect binary tree where all leaves are on the same level, and every parent has two children. The binary tree has the following definition:Populate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.Initially, all next pointers are set to NULL."
+  },
+  {
+    "title": "Populating Next Right Pointers in Each Node II",
+    "url": "https://leetcode.com/problems/populating-next-right-pointers-in-each-node-ii",
+    "description": "Given a binary treePopulate each next pointer to point to its next right node. If there is no next right node, the next pointer should be set to NULL.Initially, all next pointers are set to NULL."
+  },
+  {
+    "title": "Pascal's Triangle",
+    "url": "https://leetcode.com/problems/pascals-triangle",
+    "description": "Given an integer numRows, return the first numRows of Pascal's triangle.In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:"
+  },
+  {
+    "title": "Pascal's Triangle II",
+    "url": "https://leetcode.com/problems/pascals-triangle-ii",
+    "description": "Given an integer rowIndex, return the rowIndexth (0-indexed) row of the Pascal's triangle.In Pascal's triangle, each number is the sum of the two numbers directly above it as shown:"
+  },
+  {
+    "title": "Triangle",
+    "url": "https://leetcode.com/problems/triangle",
+    "description": "Given a triangle array, return the minimum path sum from top to bottom.For each step, you may move to an adjacent number of the row below. More formally, if you are on index i on the current row, you may move to either index i or index i + 1 on the next row."
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock",
+    "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day.You want to maximize your profit by choosing a single day to buy one stock and choosing a different day in the future to sell that stock.Return the maximum profit you can achieve from this transaction. If you cannot achieve any profit, return 0."
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock II",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-ii",
+    "description": "You are given an integer array prices where prices[i] is the price of a given stock on the ith day.On each day, you may decide to buy and/or sell the stock. You can only hold at most one share of the stock at any time. However, you can sell and buy the stock multiple times on the same day, ensuring you never hold more than one share of the stock.Find and return the maximum profit you can achieve."
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock III",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iii",
+    "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day.Find the maximum profit you can achieve. You may complete at most two transactions.Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again)."
+  },
+  {
+    "title": "Binary Tree Maximum Path Sum",
+    "url": "https://leetcode.com/problems/binary-tree-maximum-path-sum",
+    "description": "A path in a binary tree is a sequence of nodes where each pair of adjacent nodes in the sequence has an edge connecting them. A node can only appear in the sequence at most once. Note that the path does not need to pass through the root.The path sum of a path is the sum of the node's values in the path.Given the root of a binary tree, return the maximum path sum of any non-empty path."
+  },
+  {
+    "title": "Valid Palindrome",
+    "url": "https://leetcode.com/problems/valid-palindrome",
+    "description": "A phrase is a palindrome if, after converting all uppercase letters into lowercase letters and removing all non-alphanumeric characters, it reads the same forward and backward. Alphanumeric characters include letters and numbers.Given a string s, return true if it is a palindrome, or false otherwise."
+  },
+  {
+    "title": "Word Ladder II",
+    "url": "https://leetcode.com/problems/word-ladder-ii",
+    "description": "A transformation sequence from word beginWord to word endWord using a dictionary wordList is a sequence of words beginWord -> s1 -> s2 -> ... -> sk such that:Given two words, beginWord and endWord, and a dictionary wordList, return all the shortest transformation sequences from beginWord to endWord, or an empty list if no such sequence exists. Each sequence should be returned as a list of the words [beginWord, s1, s2, ..., sk]."
+  },
+  {
+    "title": "Word Ladder",
+    "url": "https://leetcode.com/problems/word-ladder",
+    "description": "A transformation sequence from word beginWord to word endWord using a dictionary wordList is a sequence of words beginWord -> s1 -> s2 -> ... -> sk such that:Given two words, beginWord and endWord, and a dictionary wordList, return the number of words in the shortest transformation sequence from beginWord to endWord, or 0 if no such sequence exists."
+  },
+  {
+    "title": "Longest Consecutive Sequence",
+    "url": "https://leetcode.com/problems/longest-consecutive-sequence",
+    "description": "Given an unsorted array of integers nums, return the length of the longest consecutive elements sequence.You must write an algorithm that runs in O(n) time."
+  },
+  {
+    "title": "Sum Root to Leaf Numbers",
+    "url": "https://leetcode.com/problems/sum-root-to-leaf-numbers",
+    "description": "You are given the root of a binary tree containing digits from 0 to 9 only.Each root-to-leaf path in the tree represents a number.Return the total sum of all root-to-leaf numbers. Test cases are generated so that the answer will fit in a 32-bit integer.A leaf node is a node with no children."
+  },
+  {
+    "title": "Surrounded Regions",
+    "url": "https://leetcode.com/problems/surrounded-regions",
+    "description": "You are given an m x n matrix board containing letters 'X' and 'O', capture regions that are surrounded:To capture a surrounded region, replace all 'O's with 'X's in-place within the original board. You do not need to return anything."
+  },
+  {
+    "title": "Palindrome Partitioning",
+    "url": "https://leetcode.com/problems/palindrome-partitioning",
+    "description": "Given a string s, partition s such that every substring of the partition is a palindrome. Return all possible palindrome partitioning of s."
+  },
+  {
+    "title": "Palindrome Partitioning II",
+    "url": "https://leetcode.com/problems/palindrome-partitioning-ii",
+    "description": "Given a string s, partition s such that every substring of the partition is a palindrome.Return the minimum cuts needed for a palindrome partitioning of s."
+  },
+  {
+    "title": "Clone Graph",
+    "url": "https://leetcode.com/problems/clone-graph",
+    "description": "Given a reference of a node in a connected undirected graph.Return a deep copy (clone) of the graph.Each node in the graph contains a value (int) and a list (List[Node]) of its neighbors."
+  },
+  {
+    "title": "Gas Station",
+    "url": "https://leetcode.com/problems/gas-station",
+    "description": "There are n gas stations along a circular route, where the amount of gas at the ith station is gas[i].You have a car with an unlimited gas tank and it costs cost[i] of gas to travel from the ith station to its next (i + 1)th station. You begin the journey with an empty tank at one of the gas stations.Given two integer arrays gas and cost, return the starting gas station's index if you can travel around the circuit once in the clockwise direction, otherwise return -1. If there exists a solution, it is guaranteed to be unique."
+  },
+  {
+    "title": "Candy",
+    "url": "https://leetcode.com/problems/candy",
+    "description": "There are n children standing in a line.Each child is assigned a rating value given in the integer array ratings.You are giving candies to these children subjected to the following requirements:Return the minimum number of candies you need to have to distribute the candies to the children."
+  },
+  {
+    "title": "Single Number",
+    "url": "https://leetcode.com/problems/single-number",
+    "description": "Given a non-empty array of integers nums, every element appears twice except for one. Find that single one.You must implement a solution with a linear runtime complexity and use only constant extra space."
+  },
+  {
+    "title": "Single Number II",
+    "url": "https://leetcode.com/problems/single-number-ii",
+    "description": "Given an integer array nums where every element appears three times except for one, which appears exactly once. Find the single element and return it.You must implement a solution with a linear runtime complexity and use only constant extra space."
+  },
+  {
+    "title": "Copy List with Random Pointer",
+    "url": "https://leetcode.com/problems/copy-list-with-random-pointer",
+    "description": "A linked list of length n is given such that each node contains an additional random pointer, which could point to any node in the list, or null.Construct a deep copy of the list. The deep copy should consist of exactly n brand new nodes, where each new node has its value set to the value of its corresponding original node. Both the next and random pointer of the new nodes should point to new nodes in the copied list such that the pointers in the original list and copied list represent the same list state. None of the pointers in the new list should point to nodes in the original list.For example, if there are two nodes X and Y in the original list, where X.random --> Y, then for the corresponding two nodes x and y in the copied list, x.random --> y.Return the head of the copied linked list.The linked list is represented in the input/output as a list of n nodes. Each node is represented as a pair of [val, random_index] where:Your code will only be given the head of the original linked list."
+  },
+  {
+    "title": "Word Break",
+    "url": "https://leetcode.com/problems/word-break",
+    "description": "Given a string s and a dictionary of strings wordDict, return true if s can be segmented into a space-separated sequence of one or more dictionary words.Note that the same word in the dictionary may be reused multiple times in the segmentation."
+  },
+  {
+    "title": "Word Break II",
+    "url": "https://leetcode.com/problems/word-break-ii",
+    "description": "Given a string s and a dictionary of strings wordDict, add spaces in s to construct a sentence where each word is a valid dictionary word. Return all such possible sentences in any order.Note that the same word in the dictionary may be reused multiple times in the segmentation."
+  },
+  {
+    "title": "Linked List Cycle",
+    "url": "https://leetcode.com/problems/linked-list-cycle",
+    "description": "Given head, the head of a linked list, determine if the linked list has a cycle in it.There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to. Note that pos is not passed as a parameter.Return true if there is a cycle in the linked list. Otherwise, return false."
+  },
+  {
+    "title": "Linked List Cycle II",
+    "url": "https://leetcode.com/problems/linked-list-cycle-ii",
+    "description": "Given the head of a linked list, return the node where the cycle begins. If there is no cycle, return null.There is a cycle in a linked list if there is some node in the list that can be reached again by continuously following the next pointer. Internally, pos is used to denote the index of the node that tail's next pointer is connected to (0-indexed). It is -1 if there is no cycle. Note that pos is not passed as a parameter.Do not modify the linked list."
+  },
+  {
+    "title": "Reorder List",
+    "url": "https://leetcode.com/problems/reorder-list",
+    "description": "You are given the head of a singly linked-list. The list can be represented as:Reorder the list to be on the following form:You may not modify the values in the list's nodes. Only nodes themselves may be changed."
+  },
+  {
+    "title": "Binary Tree Preorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-preorder-traversal",
+    "description": "Given the root of a binary tree, return the preorder traversal of its nodes' values."
+  },
+  {
+    "title": "Binary Tree Postorder Traversal",
+    "url": "https://leetcode.com/problems/binary-tree-postorder-traversal",
+    "description": "Given the root of a binary tree, return the postorder traversal of its nodes' values."
+  },
+  {
+    "title": "LRU Cache",
+    "url": "https://leetcode.com/problems/lru-cache",
+    "description": "Design a data structure that follows the constraints of a Least Recently Used (LRU) cache.Implement the LRUCache class:The functions get and put must each run in O(1) average time complexity."
+  },
+  {
+    "title": "Insertion Sort List",
+    "url": "https://leetcode.com/problems/insertion-sort-list",
+    "description": "Given the head of a singly linked list, sort the list using insertion sort, and return the sorted list's head.The steps of the insertion sort algorithm:The following is a graphical example of the insertion sort algorithm. The partially sorted list (black) initially contains only the first element in the list. One element (red) is removed from the input data and inserted in-place into the sorted list with each iteration."
+  },
+  {
+    "title": "Sort List",
+    "url": "https://leetcode.com/problems/sort-list",
+    "description": "Given the head of a linked list, return the list after sorting it in ascending order."
+  },
+  {
+    "title": "Max Points on a Line",
+    "url": "https://leetcode.com/problems/max-points-on-a-line",
+    "description": "Given an array of points where points[i] = [xi, yi] represents a point on the X-Y plane, return the maximum number of points that lie on the same straight line."
+  },
+  {
+    "title": "Evaluate Reverse Polish Notation",
+    "url": "https://leetcode.com/problems/evaluate-reverse-polish-notation",
+    "description": "You are given an array of strings tokens that represents an arithmetic expression in a Reverse Polish Notation.Evaluate the expression. Return an integer that represents the value of the expression.Note that:"
+  },
+  {
+    "title": "Reverse Words in a String",
+    "url": "https://leetcode.com/problems/reverse-words-in-a-string",
+    "description": "Given an input string s, reverse the order of the words.A word is defined as a sequence of non-space characters. The words in s will be separated by at least one space.Return a string of the words in reverse order concatenated by a single space.Note that s may contain leading or trailing spaces or multiple spaces between two words. The returned string should only have a single space separating the words. Do not include any extra spaces."
+  },
+  {
+    "title": "Maximum Product Subarray",
+    "url": "https://leetcode.com/problems/maximum-product-subarray",
+    "description": "Given an integer array nums, find a subarray that has the largest product, and return the product.The test cases are generated so that the answer will fit in a 32-bit integer.Note that the product of an array with a single element is the value of that element."
+  },
+  {
+    "title": "Find Minimum in Rotated Sorted Array",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array",
+    "description": "Suppose an array of length n sorted in ascending order is rotated between 1 and n times. For example, the array nums = [0,1,2,4,5,6,7] might become:Notice that rotating an array [a[0], a[1], a[2], ..., a[n-1]] 1 time results in the array [a[n-1], a[0], a[1], a[2], ..., a[n-2]].Given the sorted rotated array nums of unique elements, return the minimum element of this array.You must write an algorithm that runs in O(log n) time."
+  },
+  {
+    "title": "Find Minimum in Rotated Sorted Array II",
+    "url": "https://leetcode.com/problems/find-minimum-in-rotated-sorted-array-ii",
+    "description": "Suppose an array of length n sorted in ascending order is rotated between 1 and n times. For example, the array nums = [0,1,4,4,5,6,7] might become:Notice that rotating an array [a[0], a[1], a[2], ..., a[n-1]] 1 time results in the array [a[n-1], a[0], a[1], a[2], ..., a[n-2]].Given the sorted rotated array nums that may contain duplicates, return the minimum element of this array.You must decrease the overall operation steps as much as possible."
+  },
+  {
+    "title": "Min Stack",
+    "url": "https://leetcode.com/problems/min-stack",
+    "description": "Design a stack that supports push, pop, top, and retrieving the minimum element in constant time.Implement the MinStack class:You must implement a solution with O(1) time complexity for each function."
+  },
+  {
+    "title": "Intersection of Two Linked Lists",
+    "url": "https://leetcode.com/problems/intersection-of-two-linked-lists",
+    "description": "Given the heads of two singly linked-lists headA and headB, return the node at which the two lists intersect. If the two linked lists have no intersection at all, return null.For example, the following two linked lists begin to intersect at node c1:The test cases are generated such that there are no cycles anywhere in the entire linked structure.Note that the linked lists must retain their original structure after the function returns.Custom Judge:The inputs to the judge are given as follows (your program is not given these inputs):The judge will then create the linked structure based on these inputs and pass the two heads, headA and headB to your program. If you correctly return the intersected node, then your solution will be accepted."
+  },
+  {
+    "title": "Find Peak Element",
+    "url": "https://leetcode.com/problems/find-peak-element",
+    "description": "A peak element is an element that is strictly greater than its neighbors.Given a 0-indexed integer array nums, find a peak element, and return its index. If the array contains multiple peaks, return the index to any of the peaks.You may imagine that nums[-1] = nums[n] = -∞. In other words, an element is always considered to be strictly greater than a neighbor that is outside the array.You must write an algorithm that runs in O(log n) time."
+  },
+  {
+    "title": "Maximum Gap",
+    "url": "https://leetcode.com/problems/maximum-gap",
+    "description": "Given an integer array nums, return the maximum difference between two successive elements in its sorted form. If the array contains less than two elements, return 0.You must write an algorithm that runs in linear time and uses linear extra space."
+  },
+  {
+    "title": "Compare Version Numbers",
+    "url": "https://leetcode.com/problems/compare-version-numbers",
+    "description": "Given two version strings, version1 and version2, compare them. A version string consists of revisions separated by dots '.'. The value of the revision is its integer conversion ignoring leading zeros.To compare version strings, compare their revision values in left-to-right order. If one of the version strings has fewer revisions, treat the missing revision values as 0.Return the following:"
+  },
+  {
+    "title": "Fraction to Recurring Decimal",
+    "url": "https://leetcode.com/problems/fraction-to-recurring-decimal",
+    "description": "Given two integers representing the numerator and denominator of a fraction, return the fraction in string format.If the fractional part is repeating, enclose the repeating part in parenthesesIf multiple answers are possible, return any of them.It is guaranteed that the length of the answer string is less than 104 for all the given inputs.Note that if the fraction can be represented as a finite length string, you must return it."
+  },
+  {
+    "title": "Two Sum II - Input Array Is Sorted",
+    "url": "https://leetcode.com/problems/two-sum-ii-input-array-is-sorted",
+    "description": "Given a 1-indexed array of integers numbers that is already sorted in non-decreasing order, find two numbers such that they add up to a specific target number. Let these two numbers be numbers[index1] and numbers[index2] where 1 <= index1 < index2 <= numbers.length.Return the indices of the two numbers index1 and index2, each incremented by one, as an integer array [index1, index2] of length 2.The tests are generated such that there is exactly one solution. You may not use the same element twice.Your solution must use only constant extra space."
+  },
+  {
+    "title": "Excel Sheet Column Title",
+    "url": "https://leetcode.com/problems/excel-sheet-column-title",
+    "description": "Given an integer columnNumber, return its corresponding column title as it appears in an Excel sheet.For example:"
+  },
+  {
+    "title": "Majority Element",
+    "url": "https://leetcode.com/problems/majority-element",
+    "description": "Given an array nums of size n, return the majority element.The majority element is the element that appears more than ⌊n / 2⌋ times. You may assume that the majority element always exists in the array."
+  },
+  {
+    "title": "Excel Sheet Column Number",
+    "url": "https://leetcode.com/problems/excel-sheet-column-number",
+    "description": "Given a string columnTitle that represents the column title as appears in an Excel sheet, return its corresponding column number.For example:"
+  },
+  {
+    "title": "Factorial Trailing Zeroes",
+    "url": "https://leetcode.com/problems/factorial-trailing-zeroes",
+    "description": "Given an integer n, return the number of trailing zeroes in n!.Note that n! = n * (n - 1) * (n - 2) * ... * 3 * 2 * 1."
+  },
+  {
+    "title": "Binary Search Tree Iterator",
+    "url": "https://leetcode.com/problems/binary-search-tree-iterator",
+    "description": "Implement the BSTIterator class that represents an iterator over the in-order traversal of a binary search tree (BST):Notice that by initializing the pointer to a non-existent smallest number, the first call to next() will return the smallest element in the BST.You may assume that next() calls will always be valid. That is, there will be at least a next number in the in-order traversal when next() is called."
+  },
+  {
+    "title": "Dungeon Game",
+    "url": "https://leetcode.com/problems/dungeon-game",
+    "description": "The demons had captured the princess and imprisoned her in the bottom-right corner of a dungeon. The dungeon consists of m x n rooms laid out in a 2D grid. Our valiant knight was initially positioned in the top-left room and must fight his way through dungeon to rescue the princess.The knight has an initial health point represented by a positive integer. If at any point his health point drops to 0 or below, he dies immediately.Some of the rooms are guarded by demons (represented by negative integers), so the knight loses health upon entering these rooms; other rooms are either empty (represented as 0) or contain magic orbs that increase the knight's health (represented by positive integers).To reach the princess as quickly as possible, the knight decides to move only rightward or downward in each step.Return the knight's minimum initial health so that he can rescue the princess.Note that any room can contain threats or power-ups, even the first room the knight enters and the bottom-right room where the princess is imprisoned."
+  },
+  {
+    "title": "Combine Two Tables",
+    "url": "https://leetcode.com/problems/combine-two-tables",
+    "description": "Table: Person"
+  },
+  {
+    "title": "Second Highest Salary",
+    "url": "https://leetcode.com/problems/second-highest-salary",
+    "description": "Table: Employee"
+  },
+  {
+    "title": "Nth Highest Salary",
+    "url": "https://leetcode.com/problems/nth-highest-salary",
+    "description": "Table: Employee"
+  },
+  {
+    "title": "Rank Scores",
+    "url": "https://leetcode.com/problems/rank-scores",
+    "description": "Table: Scores"
+  },
+  {
+    "title": "Largest Number",
+    "url": "https://leetcode.com/problems/largest-number",
+    "description": "Given a list of non-negative integers nums, arrange them such that they form the largest number and return it.Since the result may be very large, so you need to return a string instead of an integer."
+  },
+  {
+    "title": "Consecutive Numbers",
+    "url": "https://leetcode.com/problems/consecutive-numbers",
+    "description": "Table: Logs"
+  },
+  {
+    "title": "Employees Earning More Than Their Managers",
+    "url": "https://leetcode.com/problems/employees-earning-more-than-their-managers",
+    "description": "Table: Employee"
+  },
+  {
+    "title": "Duplicate Emails",
+    "url": "https://leetcode.com/problems/duplicate-emails",
+    "description": "Table: Person"
+  },
+  {
+    "title": "Customers Who Never Order",
+    "url": "https://leetcode.com/problems/customers-who-never-order",
+    "description": "Table: Customers"
+  },
+  {
+    "title": "Department Highest Salary",
+    "url": "https://leetcode.com/problems/department-highest-salary",
+    "description": "Table: Employee"
+  },
+  {
+    "title": "Department Top Three Salaries",
+    "url": "https://leetcode.com/problems/department-top-three-salaries",
+    "description": "Table: Employee"
+  },
+  {
+    "title": "Repeated DNA Sequences",
+    "url": "https://leetcode.com/problems/repeated-dna-sequences",
+    "description": "The DNA sequence is composed of a series of nucleotides abbreviated as 'A', 'C', 'G', and 'T'.When studying DNA, it is useful to identify repeated sequences within the DNA.Given a string s that represents a DNA sequence, return all the 10-letter-long sequences (substrings) that occur more than once in a DNA molecule. You may return the answer in any order."
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock IV",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-iv",
+    "description": "You are given an integer array prices where prices[i] is the price of a given stock on the ith day, and an integer k.Find the maximum profit you can achieve. You may complete at most k transactions: i.e. you may buy at most k times and sell at most k times.Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again)."
+  },
+  {
+    "title": "Rotate Array",
+    "url": "https://leetcode.com/problems/rotate-array",
+    "description": "Given an integer array nums, rotate the array to the right by k steps, where k is non-negative."
+  },
+  {
+    "title": "Reverse Bits",
+    "url": "https://leetcode.com/problems/reverse-bits",
+    "description": "Reverse bits of a given 32 bits signed integer."
+  },
+  {
+    "title": "Number of 1 Bits",
+    "url": "https://leetcode.com/problems/number-of-1-bits",
+    "description": "Given a positive integer n, write a function that returns the number of set bits in its binary representation (also known as the Hamming weight)."
+  },
+  {
+    "title": "Word Frequency",
+    "url": "https://leetcode.com/problems/word-frequency",
+    "description": "Write a bash script to calculate the frequency of each word in a text file words.txt.For simplicity sake, you may assume:Example:Assume that words.txt has the following content:Your script should output the following, sorted by descending frequency:Note:"
+  },
+  {
+    "title": "Valid Phone Numbers",
+    "url": "https://leetcode.com/problems/valid-phone-numbers",
+    "description": "Given a text file file.txt that contains a list of phone numbers (one per line), write a one-liner bash script to print all valid phone numbers.You may assume that a valid phone number must appear in one of the following two formats: (xxx) xxx-xxxx or xxx-xxx-xxxx. (x means a digit)You may also assume each line in the text file must not contain leading or trailing white spaces.Example:Assume that file.txt has the following content:Your script should output the following valid phone numbers:"
+  },
+  {
+    "title": "Transpose File",
+    "url": "https://leetcode.com/problems/transpose-file",
+    "description": "Given a text file file.txt, transpose its content.You may assume that each row has the same number of columns, and each field is separated by the ' ' character.Example:If file.txt has the following content:Output the following:"
+  },
+  {
+    "title": "Tenth Line",
+    "url": "https://leetcode.com/problems/tenth-line",
+    "description": "Given a text file file.txt, print just the 10th line of the file.Example:Assume that file.txt has the following content:Your script should output the tenth line, which is:"
+  },
+  {
+    "title": "Delete Duplicate Emails",
+    "url": "https://leetcode.com/problems/delete-duplicate-emails",
+    "description": "Table: Person"
+  },
+  {
+    "title": "Rising Temperature",
+    "url": "https://leetcode.com/problems/rising-temperature",
+    "description": "Table: Weather"
+  },
+  {
+    "title": "House Robber",
+    "url": "https://leetcode.com/problems/house-robber",
+    "description": "You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed, the only constraint stopping you from robbing each of them is that adjacent houses have security systems connected and it will automatically contact the police if two adjacent houses were broken into on the same night.Given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight without alerting the police."
+  },
+  {
+    "title": "Binary Tree Right Side View",
+    "url": "https://leetcode.com/problems/binary-tree-right-side-view",
+    "description": "Given the root of a binary tree, imagine yourself standing on the right side of it, return the values of the nodes you can see ordered from top to bottom."
+  },
+  {
+    "title": "Number of Islands",
+    "url": "https://leetcode.com/problems/number-of-islands",
+    "description": "Given an m x n 2D binary grid grid which represents a map of '1's (land) and '0's (water), return the number of islands.An island is surrounded by water and is formed by connecting adjacent lands horizontally or vertically. You may assume all four edges of the grid are all surrounded by water."
+  },
+  {
+    "title": "Bitwise AND of Numbers Range",
+    "url": "https://leetcode.com/problems/bitwise-and-of-numbers-range",
+    "description": "Given two integers left and right that represent the range [left, right], return the bitwise AND of all numbers in this range, inclusive."
+  },
+  {
+    "title": "Happy Number",
+    "url": "https://leetcode.com/problems/happy-number",
+    "description": "Write an algorithm to determine if a number n is happy.A happy number is a number defined by the following process:Return true if n is a happy number, and false if not."
+  },
+  {
+    "title": "Remove Linked List Elements",
+    "url": "https://leetcode.com/problems/remove-linked-list-elements",
+    "description": "Given the head of a linked list and an integer val, remove all the nodes of the linked list that has Node.val == val, and return the new head."
+  },
+  {
+    "title": "Count Primes",
+    "url": "https://leetcode.com/problems/count-primes",
+    "description": "Given an integer n, return the number of prime numbers that are strictly less than n."
+  },
+  {
+    "title": "Isomorphic Strings",
+    "url": "https://leetcode.com/problems/isomorphic-strings",
+    "description": "Given two strings s and t, determine if they are isomorphic.Two strings s and t are isomorphic if the characters in s can be replaced to get t.All occurrences of a character must be replaced with another character while preserving the order of characters. No two characters may map to the same character, but a character may map to itself."
+  },
+  {
+    "title": "Reverse Linked List",
+    "url": "https://leetcode.com/problems/reverse-linked-list",
+    "description": "Given the head of a singly linked list, reverse the list, and return the reversed list."
+  },
+  {
+    "title": "Course Schedule",
+    "url": "https://leetcode.com/problems/course-schedule",
+    "description": "There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.Return true if you can finish all courses. Otherwise, return false."
+  },
+  {
+    "title": "Implement Trie (Prefix Tree)",
+    "url": "https://leetcode.com/problems/implement-trie-prefix-tree",
+    "description": "A trie (pronounced as \"try\") or prefix tree is a tree data structure used to efficiently store and retrieve keys in a dataset of strings. There are various applications of this data structure, such as autocomplete and spellchecker.Implement the Trie class:"
+  },
+  {
+    "title": "Minimum Size Subarray Sum",
+    "url": "https://leetcode.com/problems/minimum-size-subarray-sum",
+    "description": "Given an array of positive integers nums and a positive integer target, return the minimal length of a subarray whose sum is greater than or equal to target. If there is no such subarray, return 0 instead."
+  },
+  {
+    "title": "Course Schedule II",
+    "url": "https://leetcode.com/problems/course-schedule-ii",
+    "description": "There are a total of numCourses courses you have to take, labeled from 0 to numCourses - 1. You are given an array prerequisites where prerequisites[i] = [ai, bi] indicates that you must take course bi first if you want to take course ai.Return the ordering of courses you should take to finish all courses. If there are many valid answers, return any of them. If it is impossible to finish all courses, return an empty array."
+  },
+  {
+    "title": "Design Add and Search Words Data Structure",
+    "url": "https://leetcode.com/problems/design-add-and-search-words-data-structure",
+    "description": "Design a data structure that supports adding new words and finding if a string matches any previously added string.Implement the WordDictionary class:"
+  },
+  {
+    "title": "Word Search II",
+    "url": "https://leetcode.com/problems/word-search-ii",
+    "description": "Given an m x n board of characters and a list of strings words, return all words on the board.Each word must be constructed from letters of sequentially adjacent cells, where adjacent cells are horizontally or vertically neighboring. The same letter cell may not be used more than once in a word."
+  },
+  {
+    "title": "House Robber II",
+    "url": "https://leetcode.com/problems/house-robber-ii",
+    "description": "You are a professional robber planning to rob houses along a street. Each house has a certain amount of money stashed. All houses at this place are arranged in a circle. That means the first house is the neighbor of the last one. Meanwhile, adjacent houses have a security system connected, and it will automatically contact the police if two adjacent houses were broken into on the same night.Given an integer array nums representing the amount of money of each house, return the maximum amount of money you can rob tonight without alerting the police."
+  },
+  {
+    "title": "Shortest Palindrome",
+    "url": "https://leetcode.com/problems/shortest-palindrome",
+    "description": "You are given a string s. You can convert s to a palindrome by adding characters in front of it.Return the shortest palindrome you can find by performing this transformation."
+  },
+  {
+    "title": "Kth Largest Element in an Array",
+    "url": "https://leetcode.com/problems/kth-largest-element-in-an-array",
+    "description": "Given an integer array nums and an integer k, return the kth largest element in the array.Note that it is the kth largest element in the sorted order, not the kth distinct element.Can you solve it without sorting?"
+  },
+  {
+    "title": "Combination Sum III",
+    "url": "https://leetcode.com/problems/combination-sum-iii",
+    "description": "Find all valid combinations of k numbers that sum up to n such that the following conditions are true:Return a list of all possible valid combinations. The list must not contain the same combination twice, and the combinations may be returned in any order."
+  },
+  {
+    "title": "Contains Duplicate",
+    "url": "https://leetcode.com/problems/contains-duplicate",
+    "description": "Given an integer array nums, return true if any value appears at least twice in the array, and return false if every element is distinct."
+  },
+  {
+    "title": "The Skyline Problem",
+    "url": "https://leetcode.com/problems/the-skyline-problem",
+    "description": "A city's skyline is the outer contour of the silhouette formed by all the buildings in that city when viewed from a distance. Given the locations and heights of all the buildings, return the skyline formed by these buildings collectively.The geometric information of each building is given in the array buildings where buildings[i] = [lefti, righti, heighti]:You may assume all buildings are perfect rectangles grounded on an absolutely flat surface at height 0.The skyline should be represented as a list of \"key points\" sorted by their x-coordinate in the form [[x1,y1],[x2,y2],...]. Each key point is the left endpoint of some horizontal segment in the skyline except the last point in the list, which always has a y-coordinate 0 and is used to mark the skyline's termination where the rightmost building ends. Any ground between the leftmost and rightmost buildings should be part of the skyline's contour.Note: There must be no consecutive horizontal lines of equal height in the output skyline. For instance, [...,[2 3],[4 5],[7 5],[11 5],[12 7],...] is not acceptable; the three lines of height 5 should be merged into one in the final output as such: [...,[2 3],[4 5],[12 7],...]"
+  },
+  {
+    "title": "Contains Duplicate II",
+    "url": "https://leetcode.com/problems/contains-duplicate-ii",
+    "description": "Given an integer array nums and an integer k, return true if there are two distinct indices i and j in the array such that nums[i] == nums[j] and abs(i - j) <= k."
+  },
+  {
+    "title": "Contains Duplicate III",
+    "url": "https://leetcode.com/problems/contains-duplicate-iii",
+    "description": "You are given an integer array nums and two integers indexDiff and valueDiff.Find a pair of indices (i, j) such that:Return true if such pair exists or false otherwise."
+  },
+  {
+    "title": "Maximal Square",
+    "url": "https://leetcode.com/problems/maximal-square",
+    "description": "Given an m x n binary matrix filled with 0's and 1's, find the largest square containing only 1's and return its area."
+  },
+  {
+    "title": "Count Complete Tree Nodes",
+    "url": "https://leetcode.com/problems/count-complete-tree-nodes",
+    "description": "Given the root of a complete binary tree, return the number of the nodes in the tree.According to Wikipedia, every level, except possibly the last, is completely filled in a complete binary tree, and all nodes in the last level are as far left as possible. It can have between 1 and 2h nodes inclusive at the last level h.Design an algorithm that runs in less than O(n) time complexity."
+  },
+  {
+    "title": "Rectangle Area",
+    "url": "https://leetcode.com/problems/rectangle-area",
+    "description": "Given the coordinates of two rectilinear rectangles in a 2D plane, return the total area covered by the two rectangles.The first rectangle is defined by its bottom-left corner (ax1, ay1) and its top-right corner (ax2, ay2).The second rectangle is defined by its bottom-left corner (bx1, by1) and its top-right corner (bx2, by2)."
+  },
+  {
+    "title": "Basic Calculator",
+    "url": "https://leetcode.com/problems/basic-calculator",
+    "description": "Given a string s representing a valid expression, implement a basic calculator to evaluate it, and return the result of the evaluation.Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval()."
+  },
+  {
+    "title": "Implement Stack using Queues",
+    "url": "https://leetcode.com/problems/implement-stack-using-queues",
+    "description": "Implement a last-in-first-out (LIFO) stack using only two queues. The implemented stack should support all the functions of a normal stack (push, top, pop, and empty).Implement the MyStack class:Notes:"
+  },
+  {
+    "title": "Invert Binary Tree",
+    "url": "https://leetcode.com/problems/invert-binary-tree",
+    "description": "Given the root of a binary tree, invert the tree, and return its root."
+  },
+  {
+    "title": "Basic Calculator II",
+    "url": "https://leetcode.com/problems/basic-calculator-ii",
+    "description": "Given a string s which represents an expression, evaluate this expression and return its value.The integer division should truncate toward zero.You may assume that the given expression is always valid. All intermediate results will be in the range of [-231, 231 - 1].Note: You are not allowed to use any built-in function which evaluates strings as mathematical expressions, such as eval()."
+  },
+  {
+    "title": "Summary Ranges",
+    "url": "https://leetcode.com/problems/summary-ranges",
+    "description": "You are given a sorted unique integer array nums.A range [a,b] is the set of all integers from a to b (inclusive).Return the smallest sorted list of ranges that cover all the numbers in the array exactly. That is, each element of nums is covered by exactly one of the ranges, and there is no integer x such that x is in one of the ranges but not in nums.Each range [a,b] in the list should be output as:"
+  },
+  {
+    "title": "Majority Element II",
+    "url": "https://leetcode.com/problems/majority-element-ii",
+    "description": "Given an integer array of size n, find all elements that appear more than ⌊n / 3⌋ times."
+  },
+  {
+    "title": "Kth Smallest Element in a BST",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-bst",
+    "description": "Given the root of a binary search tree, and an integer k, return the kth smallest value (1-indexed) of all the values of the nodes in the tree."
+  },
+  {
+    "title": "Power of Two",
+    "url": "https://leetcode.com/problems/power-of-two",
+    "description": "Given an integer n, return true if it is a power of two. Otherwise, return false.An integer n is a power of two, if there exists an integer x such that n == 2x."
+  },
+  {
+    "title": "Implement Queue using Stacks",
+    "url": "https://leetcode.com/problems/implement-queue-using-stacks",
+    "description": "Implement a first in first out (FIFO) queue using only two stacks. The implemented queue should support all the functions of a normal queue (push, peek, pop, and empty).Implement the MyQueue class:Notes:"
+  },
+  {
+    "title": "Number of Digit One",
+    "url": "https://leetcode.com/problems/number-of-digit-one",
+    "description": "Given an integer n, count the total number of digit 1 appearing in all non-negative integers less than or equal to n."
+  },
+  {
+    "title": "Palindrome Linked List",
+    "url": "https://leetcode.com/problems/palindrome-linked-list",
+    "description": "Given the head of a singly linked list, return true if it is a palindrome or false otherwise."
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Search Tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-search-tree",
+    "description": "Given a binary search tree (BST), find the lowest common ancestor (LCA) node of two given nodes in the BST.According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”"
+  },
+  {
+    "title": "Lowest Common Ancestor of a Binary Tree",
+    "url": "https://leetcode.com/problems/lowest-common-ancestor-of-a-binary-tree",
+    "description": "Given a binary tree, find the lowest common ancestor (LCA) of two given nodes in the tree.According to the definition of LCA on Wikipedia: “The lowest common ancestor is defined between two nodes p and q as the lowest node in T that has both p and q as descendants (where we allow a node to be a descendant of itself).”"
+  },
+  {
+    "title": "Delete Node in a Linked List",
+    "url": "https://leetcode.com/problems/delete-node-in-a-linked-list",
+    "description": "There is a singly-linked list head and we want to delete a node node in it.You are given the node to be deleted node. You will not be given access to the first node of head.All the values of the linked list are unique, and it is guaranteed that the given node node is not the last node in the linked list.Delete the given node. Note that by deleting the node, we do not mean removing it from memory. We mean:Custom testing:"
+  },
+  {
+    "title": "Product of Array Except Self",
+    "url": "https://leetcode.com/problems/product-of-array-except-self",
+    "description": "Given an integer array nums, return an array answer such that answer[i] is equal to the product of all the elements of nums except nums[i].The product of any prefix or suffix of nums is guaranteed to fit in a 32-bit integer.You must write an algorithm that runs in O(n) time and without using the division operation."
+  },
+  {
+    "title": "Sliding Window Maximum",
+    "url": "https://leetcode.com/problems/sliding-window-maximum",
+    "description": "You are given an array of integers nums, there is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position.Return the max sliding window."
+  },
+  {
+    "title": "Search a 2D Matrix II",
+    "url": "https://leetcode.com/problems/search-a-2d-matrix-ii",
+    "description": "Write an efficient algorithm that searches for a value target in an m x n integer matrix matrix. This matrix has the following properties:"
+  },
+  {
+    "title": "Different Ways to Add Parentheses",
+    "url": "https://leetcode.com/problems/different-ways-to-add-parentheses",
+    "description": "Given a string expression of numbers and operators, return all possible results from computing all the different possible ways to group numbers and operators. You may return the answer in any order.The test cases are generated such that the output values fit in a 32-bit integer and the number of different results does not exceed 104."
+  },
+  {
+    "title": "Valid Anagram",
+    "url": "https://leetcode.com/problems/valid-anagram",
+    "description": "Given two strings s and t, return true if t is an anagram of s, and false otherwise."
+  },
+  {
+    "title": "Binary Tree Paths",
+    "url": "https://leetcode.com/problems/binary-tree-paths",
+    "description": "You are given the root of a binary tree.Return all root-to-leaf paths in any order.A leaf is a node with no children."
+  },
+  {
+    "title": "Add Digits",
+    "url": "https://leetcode.com/problems/add-digits",
+    "description": "Given an integer num, repeatedly add all its digits until the result has only one digit, and return it."
+  },
+  {
+    "title": "Single Number III",
+    "url": "https://leetcode.com/problems/single-number-iii",
+    "description": "Given an integer array nums, in which exactly two elements appear only once and all the other elements appear exactly twice. Find the two elements that appear only once. You can return the answer in any order.You must write an algorithm that runs in linear runtime complexity and uses only constant extra space."
+  },
+  {
+    "title": "Trips and Users",
+    "url": "https://leetcode.com/problems/trips-and-users",
+    "description": "Table: TripsTable: UsersThe cancellation rate is computed by dividing the number of canceled (by client or driver) requests with unbanned users by the total number of requests with unbanned users on that day.Write a solution to find the cancellation rate of requests with unbanned users (both client and driver must not be banned) each day between \"2013-10-01\" and \"2013-10-03\" with at least one trip. Round Cancellation Rate to two decimal points.Return the result table in any order.The result format is in the following example."
+  },
+  {
+    "title": "Ugly Number",
+    "url": "https://leetcode.com/problems/ugly-number",
+    "description": "An ugly number is a positive integer which does not have a prime factor other than 2, 3, and 5.Given an integer n, return true if n is an ugly number."
+  },
+  {
+    "title": "Ugly Number II",
+    "url": "https://leetcode.com/problems/ugly-number-ii",
+    "description": "An ugly number is a positive integer whose prime factors are limited to 2, 3, and 5.Given an integer n, return the nth ugly number."
+  },
+  {
+    "title": "Missing Number",
+    "url": "https://leetcode.com/problems/missing-number",
+    "description": "Given an array nums containing n distinct numbers in the range [0, n], return the only number in the range that is missing from the array."
+  },
+  {
+    "title": "Integer to English Words",
+    "url": "https://leetcode.com/problems/integer-to-english-words",
+    "description": "Convert a non-negative integer num to its English words representation."
+  },
+  {
+    "title": "H-Index",
+    "url": "https://leetcode.com/problems/h-index",
+    "description": "Given an array of integers citations where citations[i] is the number of citations a researcher received for their ith paper, return the researcher's h-index.According to the definition of h-index on Wikipedia: The h-index is defined as the maximum value of h such that the given researcher has published at least h papers that have each been cited at least h times."
+  },
+  {
+    "title": "H-Index II",
+    "url": "https://leetcode.com/problems/h-index-ii",
+    "description": "Given an array of integers citations where citations[i] is the number of citations a researcher received for their ith paper and citations is sorted in non-descending order, return the researcher's h-index.According to the definition of h-index on Wikipedia: The h-index is defined as the maximum value of h such that the given researcher has published at least h papers that have each been cited at least h times.You must write an algorithm that runs in logarithmic time."
+  },
+  {
+    "title": "First Bad Version",
+    "url": "https://leetcode.com/problems/first-bad-version",
+    "description": "You are a product manager and currently leading a team to develop a new product. Unfortunately, the latest version of your product fails the quality check. Since each version is developed based on the previous version, all the versions after a bad version are also bad.Suppose you have n versions [1, 2, ..., n] and you want to find out the first bad one, which causes all the following ones to be bad.You are given an API bool isBadVersion(version) which returns whether version is bad. Implement a function to find the first bad version. You should minimize the number of calls to the API."
+  },
+  {
+    "title": "Perfect Squares",
+    "url": "https://leetcode.com/problems/perfect-squares",
+    "description": "Given an integer n, return the least number of perfect square numbers that sum to n.A perfect square is an integer that is the square of an integer; in other words, it is the product of some integer with itself. For example, 1, 4, 9, and 16 are perfect squares while 3 and 11 are not."
+  },
+  {
+    "title": "Expression Add Operators",
+    "url": "https://leetcode.com/problems/expression-add-operators",
+    "description": "Given a string num that contains only digits and an integer target, return all possibilities to insert the binary operators '+', '-', and/or '*' between the digits of num so that the resultant expression evaluates to the target value.Note that operands in the returned expressions should not contain leading zeros.Note that a number can contain multiple digits."
+  },
+  {
+    "title": "Move Zeroes",
+    "url": "https://leetcode.com/problems/move-zeroes",
+    "description": "Given an integer array nums, move all 0's to the end of it while maintaining the relative order of the non-zero elements.Note that you must do this in-place without making a copy of the array."
+  },
+  {
+    "title": "Peeking Iterator",
+    "url": "https://leetcode.com/problems/peeking-iterator",
+    "description": "Design an iterator that supports the peek operation on an existing iterator in addition to the hasNext and the next operations.Implement the PeekingIterator class:Note: Each language may have a different implementation of the constructor and Iterator, but they all support the int next() and boolean hasNext() functions."
+  },
+  {
+    "title": "Find the Duplicate Number",
+    "url": "https://leetcode.com/problems/find-the-duplicate-number",
+    "description": "Given an array of integers nums containing n + 1 integers where each integer is in the range [1, n] inclusive.There is only one repeated number in nums, return this repeated number.You must solve the problem without modifying the array nums and using only constant extra space."
+  },
+  {
+    "title": "Game of Life",
+    "url": "https://leetcode.com/problems/game-of-life",
+    "description": "According to Wikipedia's article: \"The Game of Life, also known simply as Life, is a cellular automaton devised by the British mathematician John Horton Conway in 1970.\"The board is made up of an m x n grid of cells, where each cell has an initial state: live (represented by a 1) or dead (represented by a 0). Each cell interacts with its eight neighbors (horizontal, vertical, diagonal) using the following four rules (taken from the above Wikipedia article):The next state of the board is determined by applying the above rules simultaneously to every cell in the current state of the m x n grid board. In this process, births and deaths occur simultaneously.Given the current state of the board, update the board to reflect its next state.Note that you do not need to return anything."
+  },
+  {
+    "title": "Word Pattern",
+    "url": "https://leetcode.com/problems/word-pattern",
+    "description": "Given a pattern and a string s, find if s follows the same pattern.Here follow means a full match, such that there is a bijection between a letter in pattern and a non-empty word in s. Specifically:"
+  },
+  {
+    "title": "Nim Game",
+    "url": "https://leetcode.com/problems/nim-game",
+    "description": "You are playing the following Nim Game with your friend:Given n, the number of stones in the heap, return true if you can win the game assuming both you and your friend play optimally, otherwise return false."
+  },
+  {
+    "title": "Find Median from Data Stream",
+    "url": "https://leetcode.com/problems/find-median-from-data-stream",
+    "description": "The median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value, and the median is the mean of the two middle values.Implement the MedianFinder class:"
+  },
+  {
+    "title": "Serialize and Deserialize Binary Tree",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-binary-tree",
+    "description": "Serialization is the process of converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.Design an algorithm to serialize and deserialize a binary tree. There is no restriction on how your serialization/deserialization algorithm should work. You just need to ensure that a binary tree can be serialized to a string and this string can be deserialized to the original tree structure.Clarification: The input/output format is the same as how LeetCode serializes a binary tree. You do not necessarily need to follow this format, so please be creative and come up with different approaches yourself."
+  },
+  {
+    "title": "Bulls and Cows",
+    "url": "https://leetcode.com/problems/bulls-and-cows",
+    "description": "You are playing the Bulls and Cows game with your friend.You write down a secret number and ask your friend to guess what the number is. When your friend makes a guess, you provide a hint with the following info:Given the secret number secret and your friend's guess guess, return the hint for your friend's guess.The hint should be formatted as \"xAyB\", where x is the number of bulls and y is the number of cows. Note that both secret and guess may contain duplicate digits."
+  },
+  {
+    "title": "Longest Increasing Subsequence",
+    "url": "https://leetcode.com/problems/longest-increasing-subsequence",
+    "description": "Given an integer array nums, return the length of the longest strictly increasing subsequence."
+  },
+  {
+    "title": "Remove Invalid Parentheses",
+    "url": "https://leetcode.com/problems/remove-invalid-parentheses",
+    "description": "Given a string s that contains parentheses and letters, remove the minimum number of invalid parentheses to make the input string valid.Return a list of unique strings that are valid with the minimum number of removals. You may return the answer in any order."
+  },
+  {
+    "title": "Range Sum Query - Immutable",
+    "url": "https://leetcode.com/problems/range-sum-query-immutable",
+    "description": "Given an integer array nums, handle multiple queries of the following type:Implement the NumArray class:"
+  },
+  {
+    "title": "Range Sum Query 2D - Immutable",
+    "url": "https://leetcode.com/problems/range-sum-query-2d-immutable",
+    "description": "Given a 2D matrix matrix, handle multiple queries of the following type:Implement the NumMatrix class:You must design an algorithm where sumRegion works on O(1) time complexity."
+  },
+  {
+    "title": "Additive Number",
+    "url": "https://leetcode.com/problems/additive-number",
+    "description": "An additive number is a string whose digits can form an additive sequence.A valid additive sequence should contain at least three numbers. Except for the first two numbers, each subsequent number in the sequence must be the sum of the preceding two.Given a string containing only digits, return true if it is an additive number or false otherwise.Note: Numbers in the additive sequence cannot have leading zeros, so sequence 1, 2, 03 or 1, 02, 3 is invalid."
+  },
+  {
+    "title": "Range Sum Query - Mutable",
+    "url": "https://leetcode.com/problems/range-sum-query-mutable",
+    "description": "Given an integer array nums, handle multiple queries of the following types:Implement the NumArray class:"
+  },
+  {
+    "title": "Best Time to Buy and Sell Stock with Cooldown",
+    "url": "https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown",
+    "description": "You are given an array prices where prices[i] is the price of a given stock on the ith day.Find the maximum profit you can achieve. You may complete as many transactions as you like (i.e., buy one and sell one share of the stock multiple times) with the following restrictions:Note: You may not engage in multiple transactions simultaneously (i.e., you must sell the stock before you buy again)."
+  },
+  {
+    "title": "Minimum Height Trees",
+    "url": "https://leetcode.com/problems/minimum-height-trees",
+    "description": "A tree is an undirected graph in which any two vertices are connected by exactly one path. In other words, any connected graph without simple cycles is a tree.Given a tree of n nodes labelled from 0 to n - 1, and an array of n - 1 edges where edges[i] = [ai, bi] indicates that there is an undirected edge between the two nodes ai and bi in the tree, you can choose any node of the tree as the root. When you select a node x as the root, the result tree has height h. Among all possible rooted trees, those with minimum height (i.e. min(h))  are called minimum height trees (MHTs).Return a list of all MHTs' root labels. You can return the answer in any order.The height of a rooted tree is the number of edges on the longest downward path between the root and a leaf."
+  },
+  {
+    "title": "Burst Balloons",
+    "url": "https://leetcode.com/problems/burst-balloons",
+    "description": "You are given n balloons, indexed from 0 to n - 1. Each balloon is painted with a number on it represented by an array nums. You are asked to burst all the balloons.If you burst the ith balloon, you will get nums[i - 1] * nums[i] * nums[i + 1] coins. If i - 1 or i + 1 goes out of bounds of the array, then treat it as if there is a balloon with a 1 painted on it.Return the maximum coins you can collect by bursting the balloons wisely."
+  },
+  {
+    "title": "Super Ugly Number",
+    "url": "https://leetcode.com/problems/super-ugly-number",
+    "description": "A super ugly number is a positive integer whose prime factors are in the array primes.Given an integer n and an array of integers primes, return the nth super ugly number.The nth super ugly number is guaranteed to fit in a 32-bit signed integer."
+  },
+  {
+    "title": "Count of Smaller Numbers After Self",
+    "url": "https://leetcode.com/problems/count-of-smaller-numbers-after-self",
+    "description": "Given an integer array nums, return an integer array counts where counts[i] is the number of smaller elements to the right of nums[i]."
+  },
+  {
+    "title": "Remove Duplicate Letters",
+    "url": "https://leetcode.com/problems/remove-duplicate-letters",
+    "description": "Given a string s, remove duplicate letters so that every letter appears once and only once. You must make sure your result is the smallest in lexicographical order among all possible results."
+  },
+  {
+    "title": "Maximum Product of Word Lengths",
+    "url": "https://leetcode.com/problems/maximum-product-of-word-lengths",
+    "description": "Given a string array words, return the maximum value of length(word[i]) * length(word[j]) where the two words do not share common letters. If no such two words exist, return 0."
+  },
+  {
+    "title": "Bulb Switcher",
+    "url": "https://leetcode.com/problems/bulb-switcher",
+    "description": "There are n bulbs that are initially off. You first turn on all the bulbs, then you turn off every second bulb.On the third round, you toggle every third bulb (turning on if it's off or turning off if it's on). For the ith round, you toggle every i bulb. For the nth round, you only toggle the last bulb.Return the number of bulbs that are on after n rounds."
+  },
+  {
+    "title": "Create Maximum Number",
+    "url": "https://leetcode.com/problems/create-maximum-number",
+    "description": "You are given two integer arrays nums1 and nums2 of lengths m and n respectively. nums1 and nums2 represent the digits of two numbers. You are also given an integer k.Create the maximum number of length k <= m + n from digits of the two numbers. The relative order of the digits from the same array must be preserved.Return an array of the k digits representing the answer."
+  },
+  {
+    "title": "Coin Change",
+    "url": "https://leetcode.com/problems/coin-change",
+    "description": "You are given an integer array coins representing coins of different denominations and an integer amount representing a total amount of money.Return the fewest number of coins that you need to make up that amount. If that amount of money cannot be made up by any combination of the coins, return -1.You may assume that you have an infinite number of each kind of coin."
+  },
+  {
+    "title": "Wiggle Sort II",
+    "url": "https://leetcode.com/problems/wiggle-sort-ii",
+    "description": "Given an integer array nums, reorder it such that nums[0] < nums[1] > nums[2] < nums[3]....You may assume the input array always has a valid answer."
+  },
+  {
+    "title": "Power of Three",
+    "url": "https://leetcode.com/problems/power-of-three",
+    "description": "Given an integer n, return true if it is a power of three. Otherwise, return false.An integer n is a power of three, if there exists an integer x such that n == 3x."
+  },
+  {
+    "title": "Count of Range Sum",
+    "url": "https://leetcode.com/problems/count-of-range-sum",
+    "description": "Given an integer array nums and two integers lower and upper, return the number of range sums that lie in [lower, upper] inclusive.Range sum S(i, j) is defined as the sum of the elements in nums between indices i and j inclusive, where i <= j."
+  },
+  {
+    "title": "Odd Even Linked List",
+    "url": "https://leetcode.com/problems/odd-even-linked-list",
+    "description": "Given the head of a singly linked list, group all the nodes with odd indices together followed by the nodes with even indices, and return the reordered list.The first node is considered odd, and the second node is even, and so on.Note that the relative order inside both the even and odd groups should remain as it was in the input.You must solve the problem in O(1) extra space complexity and O(n) time complexity."
+  },
+  {
+    "title": "Longest Increasing Path in a Matrix",
+    "url": "https://leetcode.com/problems/longest-increasing-path-in-a-matrix",
+    "description": "Given an m x n integers matrix, return the length of the longest increasing path in matrix.From each cell, you can either move in four directions: left, right, up, or down. You may not move diagonally or move outside the boundary (i.e., wrap-around is not allowed)."
+  },
+  {
+    "title": "Patching Array",
+    "url": "https://leetcode.com/problems/patching-array",
+    "description": "Given a sorted integer array nums and an integer n, add/patch elements to the array such that any number in the range [1, n] inclusive can be formed by the sum of some elements in the array.Return the minimum number of patches required."
+  },
+  {
+    "title": "Verify Preorder Serialization of a Binary Tree",
+    "url": "https://leetcode.com/problems/verify-preorder-serialization-of-a-binary-tree",
+    "description": "One way to serialize a binary tree is to use preorder traversal. When we encounter a non-null node, we record the node's value. If it is a null node, we record using a sentinel value such as '#'.For example, the above binary tree can be serialized to the string \"9,3,4,#,#,1,#,#,2,#,6,#,#\", where '#' represents a null node.Given a string of comma-separated values preorder, return true if it is a correct preorder traversal serialization of a binary tree.It is guaranteed that each comma-separated value in the string must be either an integer or a character '#' representing null pointer.You may assume that the input format is always valid.Note: You are not allowed to reconstruct the tree."
+  },
+  {
+    "title": "Reconstruct Itinerary",
+    "url": "https://leetcode.com/problems/reconstruct-itinerary",
+    "description": "You are given a list of airline tickets where tickets[i] = [fromi, toi] represent the departure and the arrival airports of one flight. Reconstruct the itinerary in order and return it.All of the tickets belong to a man who departs from \"JFK\", thus, the itinerary must begin with \"JFK\". If there are multiple valid itineraries, you should return the itinerary that has the smallest lexical order when read as a single string.You may assume all tickets form at least one valid itinerary. You must use all the tickets once and only once."
+  },
+  {
+    "title": "Increasing Triplet Subsequence",
+    "url": "https://leetcode.com/problems/increasing-triplet-subsequence",
+    "description": "Given an integer array nums, return true if there exists a triple of indices (i, j, k) such that i < j < k and nums[i] < nums[j] < nums[k]. If no such indices exists, return false."
+  },
+  {
+    "title": "Self Crossing",
+    "url": "https://leetcode.com/problems/self-crossing",
+    "description": "You are given an array of integers distance.You start at the point (0, 0) on an X-Y plane, and you move distance[0] meters to the north, then distance[1] meters to the west, distance[2] meters to the south, distance[3] meters to the east, and so on. In other words, after each move, your direction changes counter-clockwise.Return true if your path crosses itself or false if it does not."
+  },
+  {
+    "title": "Palindrome Pairs",
+    "url": "https://leetcode.com/problems/palindrome-pairs",
+    "description": "You are given a 0-indexed array of unique strings words.A palindrome pair is a pair of integers (i, j) such that:Return an array of all the palindrome pairs of words.You must write an algorithm with O(sum of words[i].length) runtime complexity."
+  },
+  {
+    "title": "House Robber III",
+    "url": "https://leetcode.com/problems/house-robber-iii",
+    "description": "The thief has found himself a new place for his thievery again. There is only one entrance to this area, called root.Besides the root, each house has one and only one parent house. After a tour, the smart thief realized that all houses in this place form a binary tree. It will automatically contact the police if two directly-linked houses were broken into on the same night.Given the root of the binary tree, return the maximum amount of money the thief can rob without alerting the police."
+  },
+  {
+    "title": "Counting Bits",
+    "url": "https://leetcode.com/problems/counting-bits",
+    "description": "Given an integer n, return an array ans of length n + 1 such that for each i (0 <= i <= n), ans[i] is the number of 1's in the binary representation of i."
+  },
+  {
+    "title": "Flatten Nested List Iterator",
+    "url": "https://leetcode.com/problems/flatten-nested-list-iterator",
+    "description": "You are given a nested list of integers nestedList. Each element is either an integer or a list whose elements may also be integers or other lists. Implement an iterator to flatten it.Implement the NestedIterator class:Your code will be tested with the following pseudocode:If res matches the expected flattened list, then your code will be judged as correct."
+  },
+  {
+    "title": "Power of Four",
+    "url": "https://leetcode.com/problems/power-of-four",
+    "description": "Given an integer n, return true if it is a power of four. Otherwise, return false.An integer n is a power of four, if there exists an integer x such that n == 4x."
+  },
+  {
+    "title": "Integer Break",
+    "url": "https://leetcode.com/problems/integer-break",
+    "description": "Given an integer n, break it into the sum of k positive integers, where k >= 2, and maximize the product of those integers.Return the maximum product you can get."
+  },
+  {
+    "title": "Reverse String",
+    "url": "https://leetcode.com/problems/reverse-string",
+    "description": "Write a function that reverses a string. The input string is given as an array of characters s.You must do this by modifying the input array in-place with O(1) extra memory."
+  },
+  {
+    "title": "Reverse Vowels of a String",
+    "url": "https://leetcode.com/problems/reverse-vowels-of-a-string",
+    "description": "Given a string s, reverse only all the vowels in the string and return it.The vowels are 'a', 'e', 'i', 'o', and 'u', and they can appear in both lower and upper cases, more than once."
+  },
+  {
+    "title": "Top K Frequent Elements",
+    "url": "https://leetcode.com/problems/top-k-frequent-elements",
+    "description": "Given an integer array nums and an integer k, return the k most frequent elements. You may return the answer in any order."
+  },
+  {
+    "title": "Intersection of Two Arrays",
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays",
+    "description": "Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must be unique and you may return the result in any order."
+  },
+  {
+    "title": "Intersection of Two Arrays II",
+    "url": "https://leetcode.com/problems/intersection-of-two-arrays-ii",
+    "description": "Given two integer arrays nums1 and nums2, return an array of their intersection. Each element in the result must appear as many times as it shows in both arrays and you may return the result in any order."
+  },
+  {
+    "title": "Data Stream as Disjoint Intervals",
+    "url": "https://leetcode.com/problems/data-stream-as-disjoint-intervals",
+    "description": "Given a data stream input of non-negative integers a1, a2, ..., an, summarize the numbers seen so far as a list of disjoint intervals.Implement the SummaryRanges class:"
+  },
+  {
+    "title": "Russian Doll Envelopes",
+    "url": "https://leetcode.com/problems/russian-doll-envelopes",
+    "description": "You are given a 2D array of integers envelopes where envelopes[i] = [wi, hi] represents the width and the height of an envelope.One envelope can fit into another if and only if both the width and height of one envelope are greater than the other envelope's width and height.Return the maximum number of envelopes you can Russian doll (i.e., put one inside the other).Note: You cannot rotate an envelope."
+  },
+  {
+    "title": "Design Twitter",
+    "url": "https://leetcode.com/problems/design-twitter",
+    "description": "Design a simplified version of Twitter where users can post tweets, follow/unfollow another user, and is able to see the 10 most recent tweets in the user's news feed.Implement the Twitter class:"
+  },
+  {
+    "title": "Count Numbers with Unique Digits",
+    "url": "https://leetcode.com/problems/count-numbers-with-unique-digits",
+    "description": "Given an integer n, return the count of all numbers with unique digits, x, where 0 <= x < 10n."
+  },
+  {
+    "title": "Max Sum of Rectangle No Larger Than K",
+    "url": "https://leetcode.com/problems/max-sum-of-rectangle-no-larger-than-k",
+    "description": "Given an m x n matrix matrix and an integer k, return the max sum of a rectangle in the matrix such that its sum is no larger than k.It is guaranteed that there will be a rectangle with a sum no larger than k."
+  },
+  {
+    "title": "Water and Jug Problem",
+    "url": "https://leetcode.com/problems/water-and-jug-problem",
+    "description": "You are given two jugs with capacities x liters and y liters. You have an infinite water supply. Return whether the total amount of water in both jugs may reach target using the following operations:"
+  },
+  {
+    "title": "Valid Perfect Square",
+    "url": "https://leetcode.com/problems/valid-perfect-square",
+    "description": "Given a positive integer num, return true if num is a perfect square or false otherwise.A perfect square is an integer that is the square of an integer. In other words, it is the product of some integer with itself.You must not use any built-in library function, such as sqrt."
+  },
+  {
+    "title": "Largest Divisible Subset",
+    "url": "https://leetcode.com/problems/largest-divisible-subset",
+    "description": "Given a set of distinct positive integers nums, return the largest subset answer such that every pair (answer[i], answer[j]) of elements in this subset satisfies:If there are multiple solutions, return any of them."
+  },
+  {
+    "title": "Sum of Two Integers",
+    "url": "https://leetcode.com/problems/sum-of-two-integers",
+    "description": "Given two integers a and b, return the sum of the two integers without using the operators + and -."
+  },
+  {
+    "title": "Super Pow",
+    "url": "https://leetcode.com/problems/super-pow",
+    "description": "Your task is to calculate ab mod 1337 where a is a positive integer and b is an extremely large positive integer given in the form of an array."
+  },
+  {
+    "title": "Find K Pairs with Smallest Sums",
+    "url": "https://leetcode.com/problems/find-k-pairs-with-smallest-sums",
+    "description": "You are given two integer arrays nums1 and nums2 sorted in non-decreasing order and an integer k.Define a pair (u, v) which consists of one element from the first array and one element from the second array.Return the k pairs (u1, v1), (u2, v2), ..., (uk, vk) with the smallest sums."
+  },
+  {
+    "title": "Guess Number Higher or Lower",
+    "url": "https://leetcode.com/problems/guess-number-higher-or-lower",
+    "description": "We are playing the Guess Game. The game is as follows:I pick a number from 1 to n. You have to guess which number I picked (the number I picked stays the same throughout the game).Every time you guess wrong, I will tell you whether the number I picked is higher or lower than your guess.You call a pre-defined API int guess(int num), which returns three possible results:Return the number that I picked."
+  },
+  {
+    "title": "Guess Number Higher or Lower II",
+    "url": "https://leetcode.com/problems/guess-number-higher-or-lower-ii",
+    "description": "We are playing the Guessing Game. The game will work as follows:Given a particular n, return the minimum amount of money you need to guarantee a win regardless of what number I pick."
+  },
+  {
+    "title": "Wiggle Subsequence",
+    "url": "https://leetcode.com/problems/wiggle-subsequence",
+    "description": "A wiggle sequence is a sequence where the differences between successive numbers strictly alternate between positive and negative. The first difference (if one exists) may be either positive or negative. A sequence with one element and a sequence with two non-equal elements are trivially wiggle sequences.A subsequence is obtained by deleting some elements (possibly zero) from the original sequence, leaving the remaining elements in their original order.Given an integer array nums, return the length of the longest wiggle subsequence of nums."
+  },
+  {
+    "title": "Combination Sum IV",
+    "url": "https://leetcode.com/problems/combination-sum-iv",
+    "description": "Given an array of distinct integers nums and a target integer target, return the number of possible combinations that add up to target.The test cases are generated so that the answer can fit in a 32-bit integer."
+  },
+  {
+    "title": "Kth Smallest Element in a Sorted Matrix",
+    "url": "https://leetcode.com/problems/kth-smallest-element-in-a-sorted-matrix",
+    "description": "Given an n x n matrix where each of the rows and columns is sorted in ascending order, return the kth smallest element in the matrix.Note that it is the kth smallest element in the sorted order, not the kth distinct element.You must find a solution with a memory complexity better than O(n2)."
+  },
+  {
+    "title": "Insert Delete GetRandom O(1)",
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1",
+    "description": "Implement the RandomizedSet class:You must implement the functions of the class such that each function works in average O(1) time complexity."
+  },
+  {
+    "title": "Insert Delete GetRandom O(1) - Duplicates allowed",
+    "url": "https://leetcode.com/problems/insert-delete-getrandom-o1-duplicates-allowed",
+    "description": "RandomizedCollection is a data structure that contains a collection of numbers, possibly duplicates (i.e., a multiset). It should support inserting and removing specific elements and also reporting a random element.Implement the RandomizedCollection class:You must implement the functions of the class such that each function works on average O(1) time complexity.Note: The test cases are generated such that getRandom will only be called if there is at least one item in the RandomizedCollection."
+  },
+  {
+    "title": "Linked List Random Node",
+    "url": "https://leetcode.com/problems/linked-list-random-node",
+    "description": "Given a singly linked list, return a random node's value from the linked list. Each node must have the same probability of being chosen.Implement the Solution class:"
+  },
+  {
+    "title": "Ransom Note",
+    "url": "https://leetcode.com/problems/ransom-note",
+    "description": "Given two strings ransomNote and magazine, return true if ransomNote can be constructed by using the letters from magazine and false otherwise.Each letter in magazine can only be used once in ransomNote."
+  },
+  {
+    "title": "Shuffle an Array",
+    "url": "https://leetcode.com/problems/shuffle-an-array",
+    "description": "Given an integer array nums, design an algorithm to randomly shuffle the array. All permutations of the array should be equally likely as a result of the shuffling.Implement the Solution class:"
+  },
+  {
+    "title": "Mini Parser",
+    "url": "https://leetcode.com/problems/mini-parser",
+    "description": "Given a string s represents the serialization of a nested list, implement a parser to deserialize it and return the deserialized NestedInteger.Each element is either an integer or a list whose elements may also be integers or other lists."
+  },
+  {
+    "title": "Lexicographical Numbers",
+    "url": "https://leetcode.com/problems/lexicographical-numbers",
+    "description": "Given an integer n, return all the numbers in the range [1, n] sorted in lexicographical order.You must write an algorithm that runs in O(n) time and uses O(1) extra space."
+  },
+  {
+    "title": "First Unique Character in a String",
+    "url": "https://leetcode.com/problems/first-unique-character-in-a-string",
+    "description": "Given a string s, find the first non-repeating character in it and return its index. If it does not exist, return -1."
+  },
+  {
+    "title": "Longest Absolute File Path",
+    "url": "https://leetcode.com/problems/longest-absolute-file-path",
+    "description": "Suppose we have a file system that stores both files and directories. An example of one system is represented in the following picture:Here, we have dir as the only directory in the root. dir contains two subdirectories, subdir1 and subdir2. subdir1 contains a file file1.ext and subdirectory subsubdir1. subdir2 contains a subdirectory subsubdir2, which contains a file file2.ext.In text form, it looks like this (with ⟶ representing the tab character):If we were to write this representation in code, it will look like this: \"dir\\n\\tsubdir1\\n\\t\\tfile1.ext\\n\\t\\tsubsubdir1\\n\\tsubdir2\\n\\t\\tsubsubdir2\\n\\t\\t\\tfile2.ext\". Note that the '\\n' and '\\t' are the new-line and tab characters.Every file and directory has a unique absolute path in the file system, which is the order of directories that must be opened to reach the file/directory itself, all concatenated by '/'s. Using the above example, the absolute path to file2.ext is \"dir/subdir2/subsubdir2/file2.ext\". Each directory name consists of letters, digits, and/or spaces. Each file name is of the form name.extension, where name and extension consist of letters, digits, and/or spaces.Given a string input representing the file system in the explained format, return the length of the longest absolute path to a file in the abstracted file system. If there is no file in the system, return 0.Note that the testcases are generated such that the file system is valid and no file or directory name has length 0."
+  },
+  {
+    "title": "Find the Difference",
+    "url": "https://leetcode.com/problems/find-the-difference",
+    "description": "You are given two strings s and t.String t is generated by random shuffling string s and then add one more letter at a random position.Return the letter that was added to t."
+  },
+  {
+    "title": "Elimination Game",
+    "url": "https://leetcode.com/problems/elimination-game",
+    "description": "You have a list arr of all integers in the range [1, n] sorted in a strictly increasing order. Apply the following algorithm on arr:Given the integer n, return the last number that remains in arr."
+  },
+  {
+    "title": "Perfect Rectangle",
+    "url": "https://leetcode.com/problems/perfect-rectangle",
+    "description": "Given an array rectangles where rectangles[i] = [xi, yi, ai, bi] represents an axis-aligned rectangle. The bottom-left point of the rectangle is (xi, yi) and the top-right point of it is (ai, bi).Return true if all the rectangles together form an exact cover of a rectangular region."
+  },
+  {
+    "title": "Is Subsequence",
+    "url": "https://leetcode.com/problems/is-subsequence",
+    "description": "Given two strings s and t, return true if s is a subsequence of t, or false otherwise.A subsequence of a string is a new string that is formed from the original string by deleting some (can be none) of the characters without disturbing the relative positions of the remaining characters. (i.e., \"ace\" is a subsequence of \"abcde\" while \"aec\" is not)."
+  },
+  {
+    "title": "UTF-8 Validation",
+    "url": "https://leetcode.com/problems/utf-8-validation",
+    "description": "Given an integer array data representing the data, return whether it is a valid UTF-8 encoding (i.e. it translates to a sequence of valid UTF-8 encoded characters).A character in UTF8 can be from 1 to 4 bytes long, subjected to the following rules:This is how the UTF-8 encoding would work:x denotes a bit in the binary form of a byte that may be either 0 or 1.Note: The input is an array of integers. Only the least significant 8 bits of each integer is used to store the data. This means each integer represents only 1 byte of data."
+  },
+  {
+    "title": "Decode String",
+    "url": "https://leetcode.com/problems/decode-string",
+    "description": "Given an encoded string, return its decoded string.The encoding rule is: k[encoded_string], where the encoded_string inside the square brackets is being repeated exactly k times. Note that k is guaranteed to be a positive integer.You may assume that the input string is always valid; there are no extra white spaces, square brackets are well-formed, etc. Furthermore, you may assume that the original data does not contain any digits and that digits are only for those repeat numbers, k. For example, there will not be input like 3a or 2[4].The test cases are generated so that the length of the output will never exceed 105."
+  },
+  {
+    "title": "Longest Substring with At Least K Repeating Characters",
+    "url": "https://leetcode.com/problems/longest-substring-with-at-least-k-repeating-characters",
+    "description": "Given a string s and an integer k, return the length of the longest substring of s such that the frequency of each character in this substring is greater than or equal to k.if no such substring exists, return 0."
+  },
+  {
+    "title": "Rotate Function",
+    "url": "https://leetcode.com/problems/rotate-function",
+    "description": "You are given an integer array nums of length n.Assume arrk to be an array obtained by rotating nums by k positions clock-wise. We define the rotation function F on nums as follow:Return the maximum value of F(0), F(1), ..., F(n-1).The test cases are generated so that the answer fits in a 32-bit integer."
+  },
+  {
+    "title": "Integer Replacement",
+    "url": "https://leetcode.com/problems/integer-replacement",
+    "description": "Given a positive integer n, you can apply one of the following operations:Return the minimum number of operations needed for n to become 1."
+  },
+  {
+    "title": "Random Pick Index",
+    "url": "https://leetcode.com/problems/random-pick-index",
+    "description": "Given an integer array nums with possible duplicates, randomly output the index of a given target number. You can assume that the given target number must exist in the array.Implement the Solution class:"
+  },
+  {
+    "title": "Evaluate Division",
+    "url": "https://leetcode.com/problems/evaluate-division",
+    "description": "You are given an array of variable pairs equations and an array of real numbers values, where equations[i] = [Ai, Bi] and values[i] represent the equation Ai / Bi = values[i]. Each Ai or Bi is a string that represents a single variable.You are also given some queries, where queries[j] = [Cj, Dj] represents the jth query where you must find the answer for Cj / Dj = ?.Return the answers to all queries. If a single answer cannot be determined, return -1.0.Note: The input is always valid. You may assume that evaluating the queries will not result in division by zero and that there is no contradiction.Note: The variables that do not occur in the list of equations are undefined, so the answer cannot be determined for them."
+  },
+  {
+    "title": "Nth Digit",
+    "url": "https://leetcode.com/problems/nth-digit",
+    "description": "Given an integer n, return the nth digit of the infinite integer sequence [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, ...]."
+  },
+  {
+    "title": "Binary Watch",
+    "url": "https://leetcode.com/problems/binary-watch",
+    "description": "A binary watch has 4 LEDs on the top to represent the hours (0-11), and 6 LEDs on the bottom to represent the minutes (0-59). Each LED represents a zero or one, with the least significant bit on the right.Given an integer turnedOn which represents the number of LEDs that are currently on (ignoring the PM), return all possible times the watch could represent. You may return the answer in any order.The hour must not contain a leading zero.The minute must consist of two digits and may contain a leading zero."
+  },
+  {
+    "title": "Remove K Digits",
+    "url": "https://leetcode.com/problems/remove-k-digits",
+    "description": "Given string num representing a non-negative integer num, and an integer k, return the smallest possible integer after removing k digits from num."
+  },
+  {
+    "title": "Frog Jump",
+    "url": "https://leetcode.com/problems/frog-jump",
+    "description": "A frog is crossing a river. The river is divided into some number of units, and at each unit, there may or may not exist a stone. The frog can jump on a stone, but it must not jump into the water.Given a list of stones positions (in units) in sorted ascending order, determine if the frog can cross the river by landing on the last stone. Initially, the frog is on the first stone and assumes the first jump must be 1 unit.If the frog's last jump was k units, its next jump must be either k - 1, k, or k + 1 units. The frog can only jump in the forward direction."
+  },
+  {
+    "title": "Sum of Left Leaves",
+    "url": "https://leetcode.com/problems/sum-of-left-leaves",
+    "description": "Given the root of a binary tree, return the sum of all left leaves.A leaf is a node with no children. A left leaf is a leaf that is the left child of another node."
+  },
+  {
+    "title": "Convert a Number to Hexadecimal",
+    "url": "https://leetcode.com/problems/convert-a-number-to-hexadecimal",
+    "description": "Given a 32-bit integer num, return a string representing its hexadecimal representation. For negative integers, two’s complement method is used.All the letters in the answer string should be lowercase characters, and there should not be any leading zeros in the answer except for the zero itself.Note: You are not allowed to use any built-in library method to directly solve this problem."
+  },
+  {
+    "title": "Queue Reconstruction by Height",
+    "url": "https://leetcode.com/problems/queue-reconstruction-by-height",
+    "description": "You are given an array of people, people, which are the attributes of some people in a queue (not necessarily in order). Each people[i] = [hi, ki] represents the ith person of height hi with exactly ki other people in front who have a height greater than or equal to hi.Reconstruct and return the queue that is represented by the input array people. The returned queue should be formatted as an array queue, where queue[j] = [hj, kj] is the attributes of the jth person in the queue (queue[0] is the person at the front of the queue)."
+  },
+  {
+    "title": "Trapping Rain Water II",
+    "url": "https://leetcode.com/problems/trapping-rain-water-ii",
+    "description": "Given an m x n integer matrix heightMap representing the height of each unit cell in a 2D elevation map, return the volume of water it can trap after raining."
+  },
+  {
+    "title": "Longest Palindrome",
+    "url": "https://leetcode.com/problems/longest-palindrome",
+    "description": "Given a string s which consists of lowercase or uppercase letters, return the length of the longest palindrome that can be built with those letters.Letters are case sensitive, for example, \"Aa\" is not considered a palindrome."
+  },
+  {
+    "title": "Split Array Largest Sum",
+    "url": "https://leetcode.com/problems/split-array-largest-sum",
+    "description": "Given an integer array nums and an integer k, split nums into k non-empty subarrays such that the largest sum of any subarray is minimized.Return the minimized largest sum of the split.A subarray is a contiguous part of the array."
+  },
+  {
+    "title": "Fizz Buzz",
+    "url": "https://leetcode.com/problems/fizz-buzz",
+    "description": "Given an integer n, return a string array answer (1-indexed) where:"
+  },
+  {
+    "title": "Arithmetic Slices",
+    "url": "https://leetcode.com/problems/arithmetic-slices",
+    "description": "An integer array is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.Given an integer array nums, return the number of arithmetic subarrays of nums.A subarray is a contiguous subsequence of the array."
+  },
+  {
+    "title": "Third Maximum Number",
+    "url": "https://leetcode.com/problems/third-maximum-number",
+    "description": "You are given an integer array nums.Return the third distinct maximum number in this array. If the third maximum does not exist, return the maximum number."
+  },
+  {
+    "title": "Add Strings",
+    "url": "https://leetcode.com/problems/add-strings",
+    "description": "Given two non-negative integers, num1 and num2 represented as string, return the sum of num1 and num2 as a string.You must solve the problem without using any built-in library for handling large integers (such as BigInteger). You must also not convert the inputs to integers directly."
+  },
+  {
+    "title": "Partition Equal Subset Sum",
+    "url": "https://leetcode.com/problems/partition-equal-subset-sum",
+    "description": "Given an integer array nums, return true if you can partition the array into two subsets such that the sum of the elements in both subsets is equal or false otherwise."
+  },
+  {
+    "title": "Pacific Atlantic Water Flow",
+    "url": "https://leetcode.com/problems/pacific-atlantic-water-flow",
+    "description": "There is an m x n rectangular island that borders both the Pacific Ocean and Atlantic Ocean. The Pacific Ocean touches the island's left and top edges, and the Atlantic Ocean touches the island's right and bottom edges.The island is partitioned into a grid of square cells. You are given an m x n integer matrix heights where heights[r][c] represents the height above sea level of the cell at coordinate (r, c).The island receives a lot of rain, and the rain water can flow to neighboring cells directly north, south, east, and west if the neighboring cell's height is less than or equal to the current cell's height. Water can flow from any cell adjacent to an ocean into the ocean.Return a 2D list of grid coordinates result where result[i] = [ri, ci] denotes that rain water can flow from cell (ri, ci) to both the Pacific and Atlantic oceans."
+  },
+  {
+    "title": "Battleships in a Board",
+    "url": "https://leetcode.com/problems/battleships-in-a-board",
+    "description": "Given an m x n matrix board where each cell is a battleship 'X' or empty '.', return the number of the battleships on board.Battleships can only be placed horizontally or vertically on board. In other words, they can only be made of the shape 1 x k (1 row, k columns) or k x 1 (k rows, 1 column), where k can be of any size. At least one horizontal or vertical cell separates between two battleships (i.e., there are no adjacent battleships)."
+  },
+  {
+    "title": "Strong Password Checker",
+    "url": "https://leetcode.com/problems/strong-password-checker",
+    "description": "A password is considered strong if the below conditions are all met:Given a string password, return the minimum number of steps required to make password strong. if password is already strong, return 0.In one step, you can:"
+  },
+  {
+    "title": "Maximum XOR of Two Numbers in an Array",
+    "url": "https://leetcode.com/problems/maximum-xor-of-two-numbers-in-an-array",
+    "description": "Given an integer array nums, return the maximum result of nums[i] XOR nums[j], where 0 <= i <= j < n."
+  },
+  {
+    "title": "Reconstruct Original Digits from English",
+    "url": "https://leetcode.com/problems/reconstruct-original-digits-from-english",
+    "description": "Given a string s containing an out-of-order English representation of digits 0-9, return the digits in ascending order."
+  },
+  {
+    "title": "Longest Repeating Character Replacement",
+    "url": "https://leetcode.com/problems/longest-repeating-character-replacement",
+    "description": "You are given a string s and an integer k. You can choose any character of the string and change it to any other uppercase English character. You can perform this operation at most k times.Return the length of the longest substring containing the same letter you can get after performing the above operations."
+  },
+  {
+    "title": "Construct Quad Tree",
+    "url": "https://leetcode.com/problems/construct-quad-tree",
+    "description": "Given a n * n matrix grid of 0's and 1's only. We want to represent grid with a Quad-Tree.Return the root of the Quad-Tree representing grid.A Quad-Tree is a tree data structure in which each internal node has exactly four children. Besides, each node has two attributes:We can construct a Quad-Tree from a two-dimensional area using the following steps:If you want to know more about the Quad-Tree, you can refer to the wiki.Quad-Tree format:You don't need to read this section for solving the problem. This is only if you want to understand the output format here. The output represents the serialized format of a Quad-Tree using level order traversal, where null signifies a path terminator where no node exists below.It is very similar to the serialization of the binary tree. The only difference is that the node is represented as a list [isLeaf, val].If the value of isLeaf or val is True we represent it as 1 in the list [isLeaf, val] and if the value of isLeaf or val is False we represent it as 0."
+  },
+  {
+    "title": "N-ary Tree Level Order Traversal",
+    "url": "https://leetcode.com/problems/n-ary-tree-level-order-traversal",
+    "description": "Given an n-ary tree, return the level order traversal of its nodes' values.Nary-Tree input serialization is represented in their level order traversal, each group of children is separated by the null value (See examples)."
+  },
+  {
+    "title": "Flatten a Multilevel Doubly Linked List",
+    "url": "https://leetcode.com/problems/flatten-a-multilevel-doubly-linked-list",
+    "description": "You are given a doubly linked list, which contains nodes that have a next pointer, a previous pointer, and an additional child pointer. This child pointer may or may not point to a separate doubly linked list, also containing these special nodes. These child lists may have one or more children of their own, and so on, to produce a multilevel data structure as shown in the example below.Given the head of the first level of the list, flatten the list so that all the nodes appear in a single-level, doubly linked list. Let curr be a node with a child list. The nodes in the child list should appear after curr and before curr.next in the flattened list.Return the head of the flattened list. The nodes in the list must have all of their child pointers set to null."
+  },
+  {
+    "title": "All O`one Data Structure",
+    "url": "https://leetcode.com/problems/all-oone-data-structure",
+    "description": "Design a data structure to store the strings' count with the ability to return the strings with minimum and maximum counts.Implement the AllOne class:Note that each function must run in O(1) average time complexity."
+  },
+  {
+    "title": "Minimum Genetic Mutation",
+    "url": "https://leetcode.com/problems/minimum-genetic-mutation",
+    "description": "A gene string can be represented by an 8-character long string, with choices from 'A', 'C', 'G', and 'T'.Suppose we need to investigate a mutation from a gene string startGene to a gene string endGene where one mutation is defined as one single character changed in the gene string.There is also a gene bank bank that records all the valid gene mutations. A gene must be in bank to make it a valid gene string.Given the two gene strings startGene and endGene and the gene bank bank, return the minimum number of mutations needed to mutate from startGene to endGene. If there is no such a mutation, return -1.Note that the starting point is assumed to be valid, so it might not be included in the bank."
+  },
+  {
+    "title": "Number of Segments in a String",
+    "url": "https://leetcode.com/problems/number-of-segments-in-a-string",
+    "description": "Given a string s, return the number of segments in the string.A segment is defined to be a contiguous sequence of non-space characters."
+  },
+  {
+    "title": "Non-overlapping Intervals",
+    "url": "https://leetcode.com/problems/non-overlapping-intervals",
+    "description": "Given an array of intervals intervals where intervals[i] = [starti, endi], return the minimum number of intervals you need to remove to make the rest of the intervals non-overlapping.Note that intervals which only touch at a point are non-overlapping. For example, [1, 2] and [2, 3] are non-overlapping."
+  },
+  {
+    "title": "Find Right Interval",
+    "url": "https://leetcode.com/problems/find-right-interval",
+    "description": "You are given an array of intervals, where intervals[i] = [starti, endi] and each starti is unique.The right interval for an interval i is an interval j such that startj >= endi and startj is minimized. Note that i may equal j.Return an array of right interval indices for each interval i. If no right interval exists for interval i, then put -1 at index i."
+  },
+  {
+    "title": "Path Sum III",
+    "url": "https://leetcode.com/problems/path-sum-iii",
+    "description": "Given the root of a binary tree and an integer targetSum, return the number of paths where the sum of the values along the path equals targetSum.The path does not need to start or end at the root or a leaf, but it must go downwards (i.e., traveling only from parent nodes to child nodes)."
+  },
+  {
+    "title": "Find All Anagrams in a String",
+    "url": "https://leetcode.com/problems/find-all-anagrams-in-a-string",
+    "description": "Given two strings s and p, return an array of all the start indices of p's anagrams in s. You may return the answer in any order."
+  },
+  {
+    "title": "K-th Smallest in Lexicographical Order",
+    "url": "https://leetcode.com/problems/k-th-smallest-in-lexicographical-order",
+    "description": "Given two integers n and k, return the kth lexicographically smallest integer in the range [1, n]."
+  },
+  {
+    "title": "Arranging Coins",
+    "url": "https://leetcode.com/problems/arranging-coins",
+    "description": "You have n coins and you want to build a staircase with these coins. The staircase consists of k rows where the ith row has exactly i coins. The last row of the staircase may be incomplete.Given the integer n, return the number of complete rows of the staircase you will build."
+  },
+  {
+    "title": "Find All Duplicates in an Array",
+    "url": "https://leetcode.com/problems/find-all-duplicates-in-an-array",
+    "description": "Given an integer array nums of length n where all the integers of nums are in the range [1, n] and each integer appears at most twice, return an array of all the integers that appears twice.You must write an algorithm that runs in O(n) time and uses only constant auxiliary space, excluding the space needed to store the output"
+  },
+  {
+    "title": "String Compression",
+    "url": "https://leetcode.com/problems/string-compression",
+    "description": "Given an array of characters chars, compress it using the following algorithm:Begin with an empty string s. For each group of consecutive repeating characters in chars:The compressed string s should not be returned separately, but instead, be stored in the input character array chars. Note that group lengths that are 10 or longer will be split into multiple characters in chars.After you are done modifying the input array, return the new length of the array.You must write an algorithm that uses only constant extra space.Note: The characters in the array beyond the returned length do not matter and should be ignored."
+  },
+  {
+    "title": "Add Two Numbers II",
+    "url": "https://leetcode.com/problems/add-two-numbers-ii",
+    "description": "You are given two non-empty linked lists representing two non-negative integers. The most significant digit comes first and each of their nodes contains a single digit. Add the two numbers and return the sum as a linked list.You may assume the two numbers do not contain any leading zero, except the number 0 itself."
+  },
+  {
+    "title": "Arithmetic Slices II - Subsequence",
+    "url": "https://leetcode.com/problems/arithmetic-slices-ii-subsequence",
+    "description": "Given an integer array nums, return the number of all the arithmetic subsequences of nums.A sequence of numbers is called arithmetic if it consists of at least three elements and if the difference between any two consecutive elements is the same.A subsequence of an array is a sequence that can be formed by removing some elements (possibly none) of the array.The test cases are generated so that the answer fits in 32-bit integer."
+  },
+  {
+    "title": "Number of Boomerangs",
+    "url": "https://leetcode.com/problems/number-of-boomerangs",
+    "description": "You are given n points in the plane that are all distinct, where points[i] = [xi, yi]. A boomerang is a tuple of points (i, j, k) such that the distance between i and j equals the distance between i and k (the order of the tuple matters).Return the number of boomerangs."
+  },
+  {
+    "title": "Find All Numbers Disappeared in an Array",
+    "url": "https://leetcode.com/problems/find-all-numbers-disappeared-in-an-array",
+    "description": "Given an array nums of n integers where nums[i] is in the range [1, n], return an array of all the integers in the range [1, n] that do not appear in nums."
+  },
+  {
+    "title": "Serialize and Deserialize BST",
+    "url": "https://leetcode.com/problems/serialize-and-deserialize-bst",
+    "description": "Serialization is converting a data structure or object into a sequence of bits so that it can be stored in a file or memory buffer, or transmitted across a network connection link to be reconstructed later in the same or another computer environment.Design an algorithm to serialize and deserialize a binary search tree. There is no restriction on how your serialization/deserialization algorithm should work. You need to ensure that a binary search tree can be serialized to a string, and this string can be deserialized to the original tree structure.The encoded string should be as compact as possible."
+  },
+  {
+    "title": "Delete Node in a BST",
+    "url": "https://leetcode.com/problems/delete-node-in-a-bst",
+    "description": "Given a root node reference of a BST and a key, delete the node with the given key in the BST. Return the root node reference (possibly updated) of the BST.Basically, the deletion can be divided into two stages:"
+  },
+  {
+    "title": "Sort Characters By Frequency",
+    "url": "https://leetcode.com/problems/sort-characters-by-frequency",
+    "description": "Given a string s, sort it in decreasing order based on the frequency of the characters. The frequency of a character is the number of times it appears in the string.Return the sorted string. If there are multiple answers, return any of them."
+  },
+  {
+    "title": "Minimum Number of Arrows to Burst Balloons",
+    "url": "https://leetcode.com/problems/minimum-number-of-arrows-to-burst-balloons",
+    "description": "There are some spherical balloons taped onto a flat wall that represents the XY-plane. The balloons are represented as a 2D integer array points where points[i] = [xstart, xend] denotes a balloon whose horizontal diameter stretches between xstart and xend. You do not know the exact y-coordinates of the balloons.Arrows can be shot up directly vertically (in the positive y-direction) from different points along the x-axis. A balloon with xstart and xend is burst by an arrow shot at x if xstart <= x <= xend. There is no limit to the number of arrows that can be shot. A shot arrow keeps traveling up infinitely, bursting any balloons in its path.Given the array points, return the minimum number of arrows that must be shot to burst all balloons."
+  },
+  {
+    "title": "Minimum Moves to Equal Array Elements",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements",
+    "description": "Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal.In one move, you can increment n - 1 elements of the array by 1."
+  },
+  {
+    "title": "4Sum II",
+    "url": "https://leetcode.com/problems/4sum-ii",
+    "description": "Given four integer arrays nums1, nums2, nums3, and nums4 all of length n, return the number of tuples (i, j, k, l) such that:"
+  },
+  {
+    "title": "Assign Cookies",
+    "url": "https://leetcode.com/problems/assign-cookies",
+    "description": "Assume you are an awesome parent and want to give your children some cookies. But, you should give each child at most one cookie.Each child i has a greed factor g[i], which is the minimum size of a cookie that the child will be content with; and each cookie j has a size s[j]. If s[j] >= g[i], we can assign the cookie j to the child i, and the child i will be content. Your goal is to maximize the number of your content children and output the maximum number."
+  },
+  {
+    "title": "132 Pattern",
+    "url": "https://leetcode.com/problems/132-pattern",
+    "description": "Given an array of n integers nums, a 132 pattern is a subsequence of three integers nums[i], nums[j] and nums[k] such that i < j < k and nums[i] < nums[k] < nums[j].Return true if there is a 132 pattern in nums, otherwise, return false."
+  },
+  {
+    "title": "Circular Array Loop",
+    "url": "https://leetcode.com/problems/circular-array-loop",
+    "description": "You are playing a game involving a circular array of non-zero integers nums. Each nums[i] denotes the number of indices forward/backward you must move if you are located at index i:Since the array is circular, you may assume that moving forward from the last element puts you on the first element, and moving backwards from the first element puts you on the last element.A cycle in the array consists of a sequence of indices seq of length k where:Return true if there is a cycle in nums, or false otherwise."
+  },
+  {
+    "title": "Poor Pigs",
+    "url": "https://leetcode.com/problems/poor-pigs",
+    "description": "There are buckets buckets of liquid, where exactly one of the buckets is poisonous. To figure out which one is poisonous, you feed some number of (poor) pigs the liquid to see whether they will die or not. Unfortunately, you only have minutesToTest minutes to determine which bucket is poisonous.You can feed the pigs according to these steps:Given buckets, minutesToDie, and minutesToTest, return the minimum number of pigs needed to figure out which bucket is poisonous within the allotted time."
+  },
+  {
+    "title": "Repeated Substring Pattern",
+    "url": "https://leetcode.com/problems/repeated-substring-pattern",
+    "description": "Given a string s, check if it can be constructed by taking a substring of it and appending multiple copies of the substring together."
+  },
+  {
+    "title": "LFU Cache",
+    "url": "https://leetcode.com/problems/lfu-cache",
+    "description": "Design and implement a data structure for a Least Frequently Used (LFU) cache.Implement the LFUCache class:To determine the least frequently used key, a use counter is maintained for each key in the cache. The key with the smallest use counter is the least frequently used key.When a key is first inserted into the cache, its use counter is set to 1 (due to the put operation). The use counter for a key in the cache is incremented either a get or put operation is called on it.The functions get and put must each run in O(1) average time complexity."
+  },
+  {
+    "title": "Hamming Distance",
+    "url": "https://leetcode.com/problems/hamming-distance",
+    "description": "The Hamming distance between two integers is the number of positions at which the corresponding bits are different.Given two integers x and y, return the Hamming distance between them."
+  },
+  {
+    "title": "Minimum Moves to Equal Array Elements II",
+    "url": "https://leetcode.com/problems/minimum-moves-to-equal-array-elements-ii",
+    "description": "Given an integer array nums of size n, return the minimum number of moves required to make all array elements equal.In one move, you can increment or decrement an element of the array by 1.Test cases are designed so that the answer will fit in a 32-bit integer."
+  },
+  {
+    "title": "Island Perimeter",
+    "url": "https://leetcode.com/problems/island-perimeter",
+    "description": "You are given row x col grid representing a map where grid[i][j] = 1 represents land and grid[i][j] = 0 represents water.Grid cells are connected horizontally/vertically (not diagonally). The grid is completely surrounded by water, and there is exactly one island (i.e., one or more connected land cells).The island doesn't have \"lakes\", meaning the water inside isn't connected to the water around the island. One cell is a square with side length 1. The grid is rectangular, width and height don't exceed 100. Determine the perimeter of the island."
+  },
+  {
+    "title": "Can I Win",
+    "url": "https://leetcode.com/problems/can-i-win",
+    "description": "In the \"100 game\" two players take turns adding, to a running total, any integer from 1 to 10. The player who first causes the running total to reach or exceed 100 wins.What if we change the game so that players cannot re-use integers?For example, two players might take turns drawing from a common pool of numbers from 1 to 15 without replacement until they reach a total >= 100.Given two integers maxChoosableInteger and desiredTotal, return true if the first player to move can force a win, otherwise, return false. Assume both players play optimally."
+  },
+  {
+    "title": "Count The Repetitions",
+    "url": "https://leetcode.com/problems/count-the-repetitions",
+    "description": "We define str = [s, n] as the string str which consists of the string s concatenated n times.We define that string s1 can be obtained from string s2 if we can remove some characters from s2 such that it becomes s1.You are given two strings s1 and s2 and two integers n1 and n2. You have the two strings str1 = [s1, n1] and str2 = [s2, n2].Return the maximum integer m such that str = [str2, m] can be obtained from str1."
+  },
+  {
+    "title": "Unique Substrings in Wraparound String",
+    "url": "https://leetcode.com/problems/unique-substrings-in-wraparound-string",
+    "description": "We define the string base to be the infinite wraparound string of \"abcdefghijklmnopqrstuvwxyz\", so base will look like this:Given a string s, return the number of unique non-empty substrings of s are present in base."
+  },
+  {
+    "title": "Validate IP Address",
+    "url": "https://leetcode.com/problems/validate-ip-address",
+    "description": "Given a string queryIP, return \"IPv4\" if IP is a valid IPv4 address, \"IPv6\" if IP is a valid IPv6 address or \"Neither\" if IP is not a correct IP of any type.A valid IPv4 address is an IP in the form \"x1.x2.x3.x4\" where 0 <= xi <= 255 and xi cannot contain leading zeros. For example, \"192.168.1.1\" and \"192.168.1.0\" are valid IPv4 addresses while \"192.168.01.1\", \"192.168.1.00\", and \"192.168@1.1\" are invalid IPv4 addresses.A valid IPv6 address is an IP in the form \"x1:x2:x3:x4:x5:x6:x7:x8\" where:For example, \"2001:0db8:85a3:0000:0000:8a2e:0370:7334\" and \"2001:db8:85a3:0:0:8A2E:0370:7334\" are valid IPv6 addresses, while \"2001:0db8:85a3::8A2E:037j:7334\" and \"02001:0db8:85a3:0000:0000:8a2e:0370:7334\" are invalid IPv6 addresses."
+  },
+  {
+    "title": "Implement Rand10() Using Rand7()",
+    "url": "https://leetcode.com/problems/implement-rand10-using-rand7",
+    "description": "Given the API rand7() that generates a uniform random integer in the range [1, 7], write a function rand10() that generates a uniform random integer in the range [1, 10]. You can only call the API rand7(), and you shouldn't call any other API. Please do not use a language's built-in random API.Each test case will have one internal argument n, the number of times that your implemented function rand10() will be called while testing. Note that this is not an argument passed to rand10()."
+  },
+  {
+    "title": "Concatenated Words",
+    "url": "https://leetcode.com/problems/concatenated-words",
+    "description": "Given an array of strings words (without duplicates), return all the concatenated words in the given list of words.A concatenated word is defined as a string that is comprised entirely of at least two shorter words (not necessarily distinct) in the given array."
+  },
+  {
+    "title": "Matchsticks to Square",
+    "url": "https://leetcode.com/problems/matchsticks-to-square",
+    "description": "You are given an integer array matchsticks where matchsticks[i] is the length of the ith matchstick. You want to use all the matchsticks to make one square. You should not break any stick, but you can link them up, and each matchstick must be used exactly one time.Return true if you can make this square and false otherwise."
+  },
+  {
+    "title": "Ones and Zeroes",
+    "url": "https://leetcode.com/problems/ones-and-zeroes",
+    "description": "You are given an array of binary strings strs and two integers m and n.Return the size of the largest subset of strs such that there are at most m 0's and n 1's in the subset.A set x is a subset of a set y if all elements of x are also elements of y."
+  },
+  {
+    "title": "Heaters",
+    "url": "https://leetcode.com/problems/heaters",
+    "description": "Winter is coming! During the contest, your first job is to design a standard heater with a fixed warm radius to warm all the houses.Every house can be warmed, as long as the house is within the heater's warm radius range.Given the positions of houses and heaters on a horizontal line, return the minimum radius standard of heaters so that those heaters could cover all houses.Notice that all the heaters follow your radius standard, and the warm radius will be the same."
+  },
+  {
+    "title": "Number Complement",
+    "url": "https://leetcode.com/problems/number-complement",
+    "description": "The complement of an integer is the integer you get when you flip all the 0's to 1's and all the 1's to 0's in its binary representation.Given an integer num, return its complement."
+  },
+  {
+    "title": "Total Hamming Distance",
+    "url": "https://leetcode.com/problems/total-hamming-distance",
+    "description": "The Hamming distance between two integers is the number of positions at which the corresponding bits are different.Given an integer array nums, return the sum of Hamming distances between all the pairs of the integers in nums."
+  },
+  {
+    "title": "Generate Random Point in a Circle",
+    "url": "https://leetcode.com/problems/generate-random-point-in-a-circle",
+    "description": "Given the radius and the position of the center of a circle, implement the function randPoint which generates a uniform random point inside the circle.Implement the Solution class:"
+  },
+  {
+    "title": "Largest Palindrome Product",
+    "url": "https://leetcode.com/problems/largest-palindrome-product",
+    "description": "Given an integer n, return the largest palindromic integer that can be represented as the product of two n-digits integers. Since the answer can be very large, return it modulo 1337."
+  },
+  {
+    "title": "Sliding Window Median",
+    "url": "https://leetcode.com/problems/sliding-window-median",
+    "description": "The median is the middle value in an ordered integer list. If the size of the list is even, there is no middle value. So the median is the mean of the two middle values.You are given an integer array nums and an integer k. There is a sliding window of size k which is moving from the very left of the array to the very right. You can only see the k numbers in the window. Each time the sliding window moves right by one position.Return the median array for each window in the original array. Answers within 10-5 of the actual value will be accepted."
+  },
+  {
+    "title": "Magical String",
+    "url": "https://leetcode.com/problems/magical-string",
+    "description": "A magical string s consists of only '1' and '2' and obeys the following rule:The first few elements of s is s = \"1221121221221121122……\". If we group the consecutive 1's and 2's in s, it will be \"1 22 11 2 1 22 1 22 11 2 11 22 ......\" and counting the occurrences of 1's or 2's in each group yields the sequence \"1 2 2 1 1 2 1 2 2 1 2 2 ......\".You can see that concatenating the occurrence sequence gives us s itself.Given an integer n, return the number of 1's in the first n number in the magical string s."
+  },
+  {
+    "title": "License Key Formatting",
+    "url": "https://leetcode.com/problems/license-key-formatting",
+    "description": "You are given a license key represented as a string s that consists of only alphanumeric characters and dashes. The string is separated into n + 1 groups by n dashes. You are also given an integer k.We want to reformat the string s such that each group contains exactly k characters, except for the first group, which could be shorter than k but still must contain at least one character. Furthermore, there must be a dash inserted between two groups, and you should convert all lowercase letters to uppercase.Return the reformatted license key."
+  },
+  {
+    "title": "Smallest Good Base",
+    "url": "https://leetcode.com/problems/smallest-good-base",
+    "description": "Given an integer n represented as a string, return the smallest good base of n.We call k >= 2 a good base of n, if all digits of n base k are 1's."
+  },
+  {
+    "title": "Max Consecutive Ones",
+    "url": "https://leetcode.com/problems/max-consecutive-ones",
+    "description": "Given a binary array nums, return the maximum number of consecutive 1's in the array."
+  },
+  {
+    "title": "Predict the Winner",
+    "url": "https://leetcode.com/problems/predict-the-winner",
+    "description": "You are given an integer array nums.Two players are playing a game with this array: Player 1 and Player 2.Player 1 and Player 2 take turns, with Player 1 starting first. Both players start the game with a score of 0.At each turn, the current player takes the number at either end of the array (i.e., nums[0] or nums[nums.length - 1]), removing it from the array and adding it to their own score. The game ends when there are no more elements in the array.Return true if Player 1's final score is greater than or equal to Player 2's final score, and false otherwise.Note that a tie counts as a win for Player 1. You may assume that both players play optimally."
+  },
+  {
+    "title": "Zuma Game",
+    "url": "https://leetcode.com/problems/zuma-game",
+    "description": "You are playing a variation of the game Zuma.In this variation of Zuma, there is a single row of colored balls on a board, where each ball can be colored red 'R', yellow 'Y', blue 'B', green 'G', or white 'W'. You also have several colored balls in your hand.Your goal is to clear all of the balls from the board. On each turn:Given a string board, representing the row of balls on the board, and a string hand, representing the balls in your hand, return the minimum number of balls you have to insert to clear all the balls from the board. If you cannot clear all the balls from the board using the balls in your hand, return -1."
+  },
+  {
+    "title": "Non-decreasing Subsequences",
+    "url": "https://leetcode.com/problems/non-decreasing-subsequences",
+    "description": "Given an integer array nums, return all the different possible non-decreasing subsequences of the given array with at least two elements. You may return the answer in any order."
+  },
+  {
+    "title": "Construct the Rectangle",
+    "url": "https://leetcode.com/problems/construct-the-rectangle",
+    "description": "A web developer needs to know how to design a web page's size. So, given a specific rectangular web page’s area, your job by now is to design a rectangular web page, whose length L and width W satisfy the following requirements:Return an array [L, W] where L and W are the length and width of the web page you designed in sequence."
+  },
+  {
+    "title": "Reverse Pairs",
+    "url": "https://leetcode.com/problems/reverse-pairs",
+    "description": "Given an integer array nums, return the number of reverse pairs in the array.A reverse pair is a pair (i, j) where:"
+  },
+  {
+    "title": "Target Sum",
+    "url": "https://leetcode.com/problems/target-sum",
+    "description": "You are given an integer array nums and an integer target.You want to build an expression out of nums by adding one of the symbols '+' and '-' before each integer in nums and then concatenate all the integers.Return the number of different expressions that you can build, which evaluates to target."
+  },
+  {
+    "title": "Teemo Attacking",
+    "url": "https://leetcode.com/problems/teemo-attacking",
+    "description": "Our hero Teemo is attacking an enemy Ashe with poison attacks! When Teemo attacks Ashe, Ashe gets poisoned for a exactly duration seconds. More formally, an attack at second t will mean Ashe is poisoned during the inclusive time interval [t, t + duration - 1]. If Teemo attacks again before the poison effect ends, the timer for it is reset, and the poison effect will end duration seconds after the new attack.You are given a non-decreasing integer array timeSeries, where timeSeries[i] denotes that Teemo attacks Ashe at second timeSeries[i], and an integer duration.Return the total number of seconds that Ashe is poisoned."
+  },
+  {
+    "title": "Next Greater Element I",
+    "url": "https://leetcode.com/problems/next-greater-element-i",
+    "description": "The next greater element of some element x in an array is the first greater element that is to the right of x in the same array.You are given two distinct 0-indexed integer arrays nums1 and nums2, where nums1 is a subset of nums2.For each 0 <= i < nums1.length, find the index j such that nums1[i] == nums2[j] and determine the next greater element of nums2[j] in nums2. If there is no next greater element, then the answer for this query is -1.Return an array ans of length nums1.length such that ans[i] is the next greater element as described above."
+  },
+  {
+    "title": "Random Point in Non-overlapping Rectangles",
+    "url": "https://leetcode.com/problems/random-point-in-non-overlapping-rectangles",
+    "description": "You are given an array of non-overlapping axis-aligned rectangles rects where rects[i] = [ai, bi, xi, yi] indicates that (ai, bi) is the bottom-left corner point of the ith rectangle and (xi, yi) is the top-right corner point of the ith rectangle. Design an algorithm to pick a random integer point inside the space covered by one of the given rectangles. A point on the perimeter of a rectangle is included in the space covered by the rectangle.Any integer point inside the space covered by one of the given rectangles should be equally likely to be returned.Note that an integer point is a point that has integer coordinates.Implement the Solution class:"
+  },
+  {
+    "title": "Diagonal Traverse",
+    "url": "https://leetcode.com/problems/diagonal-traverse",
+    "description": "Given an m x n matrix mat, return an array of all the elements of the array in a diagonal order."
+  }
+]
